@@ -1,0 +1,118 @@
+# Is Fast Food Driving America's Obesity Epidemic?
+
+<figure>
+    <img src="fast-food.jpg" style="width: 600px"/>
+</figure>
+
+### America's Fast Food Obsession
+
+McDonald's. Burger King. Taco Bell. Wendy's. Arby's. How often do you see one of these restaurants when you were driving down the road? These were America's top 5 fast food restaurants in 2016 and considering the prevalence of fast food restaurants across America, it is highly likely you see one every day. 
+
+Fast food has become a large part of American culture. Americans spend [$50 billion](https://www.partnersforyourhealth.com/fast-food-statistics) on fast food annually. [37%](https://www.cdc.gov/nchs/products/databriefs/db322.htm) of US adults consume fast food on any given day. As the fast food industry continues to grow, it continues to have negative affects on our society. Obesity has been on the rise in America and 32% of the American adult population is obese. The obesity epidemic in America is rapidly spreading and fast food could be one of the causes.  
+
+Dietary choices are influenced by factors such as **taste**, **cost**, and **convenience**. Fast food hits all three: it tastes good (to most), it is inexpensive, and it is highly convenient across the country. 
+
+#### Taste
+What makes fast food so good? [The ingredients!](https://flo.health/menstrual-cycle/lifestyle/diet-and-nutrition/the-truth-about-fast-food-ingredients) The ingredients that are used in most fast food products make it extremely addicting and extremely unhealthy. Every fast food product contains high levels of sugar, fat, and sodium- all of which have addictive properties. The addictiveness of these ingredients has had a large effect on obesity across the United States. These simple ingredients also contribute to the low costs of fast food products. 
+
+#### Cost 
+[The Journal of Obesity](https://www.hindawi.com/journals/jobe/2012/857697/) found that a 10% increase in fast food prices was associated with 5.7% lower frequency of fast food consumption. To high income individuals the cost of fast food does not matter much. High income individuals were found to consume just as much fast food as lower income individuals. To lower income individuals, the cost does matter. Lower income individuals rely on the inexpensiveness of fast food as a main source of food whereas higher income individuals mainly like the taste and have a large amount of disposable income to spend. Either way, everyone loves fast food and the typical low cost has been prevalent in US obesity rates. 
+
+#### Convenience
+Fast food restaurants are everywhere you go. Because of this, these restaurants are highly convenient and accessible to almost all Americans. The convenience of these fast food restaurants cannot be healthy for anyone. In this article, we will look at the effect of the convenience of fast food restaurants on consumption and obesity. 
+
+
+### Convenience: Fast Food Restaurant Location Matters
+
+These two maps represent the relationship between the convenience of fast food restaurant locations and obesity rates across the United States in 2016.
+
+The top map represents fast food restaurants across the US states per capita. It shows the states with the most and the least restaurants per capita. The more red dots there are, the more fast food restaurants there are per capita. The higher concentrations of red dots are representative of convenience and accessibility to a fast food restaurant. 
+
+The map on the bottom represents the obesity rates per state. The obesity rate ranges from 27% to 35%. The darker blue represents a higher obesity rate while the lighter blue represents a lower obesity rate. 
+
+
+
+
+<figure>
+    <img src="restaurant_map.png" style="display: inline; width: 400px"/>
+    <figcaption style="font-size:12px; text-align: center">
+Fast food restaurant locations per 10,000 people across the US
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="obesity_map.png" style="display: inline; width: 500px"/>
+    <figcaption style="font-size:12px; text-align: center">
+Obesity rates across the United States
+    </figcaption>
+</figure>
+
+
+As you can see on the fast food restaurants map, Midwestern, Eastern and Southern states are the most concentrated with fast food restaurants. The states with the fewest fast food restaurants per capita are mainly in the West. Here we are focusing on the number of restaurants relative to the state size. Convenience of fast food restaurants is based on the proximity of restaurants to one another and people's accessibility to many restaurants.
+
+As you can see on the obesity map, the Western states have the lowest obesity rates. As you move East, you will notice obesity rates get higher. Mississippi has the highest obesity rate and Hawaii has the lowest. 
+
+These two maps show that a higher prevalence of fast food restaurants is correlated with higher obesity rates. The states with lower obesity rates mostly have fewer fast food restaurant per capita while the states with higher obesity rates have a higher concentration of fast food restaurants. 
+
+Convenience is a major factor of how dietary choices are made. As fast food restaurants per capita increases so does obesity. 
+
+
+### Fast Food Consumption and Obesity in America
+
+### Fast Food Consumption: Who is eating the most fast food?
+
+Fast food consumption varies by gender, age, and income.
+
+According to the [National Center for Health](https://www.cdc.gov/nchs/products/databriefs/db322.htm), 37% of adults consumed fast food on a given day between 2013 and 2016. Among those who do consume fast food, men ate more fast food than women. The study also found that fast food intake decreased with age: 45% of adults aged 20-39 consumed fast food, 38% of adults aged 40-59 consumed fast food, and 24% of adults 60 years and older consumed fast food. Higher income adults were more likely to eat fast food than lower income adults. 
+
+Fast food consumption often implies a diet that is higher fat, sodium, and sugar, which often leads to obesity. 
+
+Let's take a look at obesity:
+
+### Obesity
+From 2014 to 2016 about 32% of the United States adult (18 years and older) population was obese. The fast food consumption statistics are in line with our obesity statistics.
+
+<div style="margin-left: -1%">
+<img src="obesity_gender.png" style="display: inline-block; width: 300px"/> 
+<img src="obesity_age.png" style="display: inline-block; width: 300px"/>
+<img src="obesity_income.png" style="display: inline-block; width: 300px"/>
+</div>
+
+Obesity rates vary by gender, age, and income. These graphs represent obesity by age, obesity by gender, and obesity by income in 2016. The x-axis shows the binary variables (age, gender, income) and the y-axis shows the average obesity rates.
+
+*Note: The obesity by age graph leaves out the age group 25-34.
+
+*Note: These graphs represent 2016 data
+
+* The data for these graphs came from [National Center for Health](https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system)
+
+##### Gender
+In 2016, the male obesity rate was 35% and the female obesity rate was 29%. This stayed consistent from 2014 to 2016.
+
+##### Age
+In 2016, the obesity rate was highest among 45-54 year olds at 36%, but this was about the same for 35-44 year olds, and 55-64 year olds. From 2014 to 2016, middle aged adults had the highest obesity rates. 
+
+##### Income
+In 2016, the obesity rate was highest among those who had an income of $ $50,000 to $ $74,999 at 34%. From 2014 to 2016, middle income adults had the highest obesity rates, but overall, the rate of obesity for all income groups was about the same (for income, assume US dollars). Remember, the cost of fast food is inexpensive enough for lower income groups, but it is also taken advantage of by higher income individuals who have a large amount of disposable income.
+
+### Is there a link between who is consuming the most fast food and who is the most obese?
+Yes, fast food consumption is a dietary factor associated with higher prevalence of obesity in the United States. On average male, middle income, and middle age people eat the most fast food and are the most obese. There is a high correlation between the gender, age and income factors in fast food consumption and obesity. 
+
+
+# Fast Food Restaurants Have Contributed to the American Obesity Epidemic 
+
+<figure>
+    <img src="obesity_fast_food.png" style="width: 600px"/>
+</figure>
+
+While it may not be the sole factor driving the obesity epidemic in America, fast food plays a large role in obesity in America. 
+
+The main reasons people eat fast food are the taste, the cost, and the convenience. The addictive, nutrient-poor ingredients lead to greater overall caloric intake and, in turn, heighten the likelihood of obesity. The cost of fast food is relatively low, making it an accessible choice for people in all income brackets. Finally, the prominence of fast food restaurants and the speed with which food is made makes it an incredibly time-saving and convenient choice. 
+
+The data above shows that 37% of Americans are consuming fast food and 32% of Americans are obese. We explored  the gender, age, and income across both of these groups and found that the 3 factors aligned for fast food consumption and obesity in America from 2013 to 2016. Middle age middle income males had both the highest fast food consumption and the highest obesity rate. 
+
+With this data, we have shown that taste, low costs, and convenience are driving Americans' reliance on fast food restaurants and that this reliance is likely contributing to America's obesity epidemic. Americans that consume the most fast food are more likely to also be obese, demonstrating a correlation between fast food consumption and obesity in America. 
+
+As the fast food industry continues to grow, it will be increasingly difficult to reverse or even slow the rise of obesity and decline of health in America. 
+
+
