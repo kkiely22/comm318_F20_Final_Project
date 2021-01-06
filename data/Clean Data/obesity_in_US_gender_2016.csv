@@ -1,0 +1,221 @@
+,year,state,state_name,gender_pc,Data_Value_Alt,Question,Sample_Size,Total,Gender,GeoLocation,LocationID,StratificationCategory1,Stratification1
+0,2016,US,National,41.0,41.0,Percent of adults aged 18 years and older who have an overweight classification,198440.0,,Male,,59,Gender,Male
+1,2016,US,National,29.3,29.3,Percent of adults aged 18 years and older who have an overweight classification,240000.0,,Female,,59,Gender,Female
+2,2016,AR,Arkansas,38.0,38.0,Percent of adults aged 18 years and older who have an overweight classification,1918.0,,Male,"(34.74865012400045, -92.27449074299966)",5,Gender,Male
+3,2016,AR,Arkansas,27.0,27.0,Percent of adults aged 18 years and older who have an overweight classification,2941.0,,Female,"(34.74865012400045, -92.27449074299966)",5,Gender,Female
+4,2016,AL,Alabama,38.2,38.2,Percent of adults aged 18 years and older who have an overweight classification,2711.0,,Male,"(32.84057112200048, -86.63186076199969)",1,Gender,Male
+5,2016,AL,Alabama,29.5,29.5,Percent of adults aged 18 years and older who have an overweight classification,3815.0,,Female,"(32.84057112200048, -86.63186076199969)",1,Gender,Female
+6,2016,AK,Alaska,38.3,38.3,Percent of adults aged 18 years and older who have an overweight classification,1334.0,,Male,"(64.84507995700051, -147.72205903599973)",2,Gender,Male
+7,2016,AK,Alaska,31.7,31.7,Percent of adults aged 18 years and older who have an overweight classification,1405.0,,Female,"(64.84507995700051, -147.72205903599973)",2,Gender,Female
+8,2016,AZ,Arizona,39.4,39.4,Percent of adults aged 18 years and older who have an overweight classification,4358.0,,Male,"(34.865970280000454, -111.76381127699972)",4,Gender,Male
+9,2016,AZ,Arizona,28.9,28.9,Percent of adults aged 18 years and older who have an overweight classification,5675.0,,Female,"(34.865970280000454, -111.76381127699972)",4,Gender,Female
+10,2016,CA,California,42.4,42.4,Percent of adults aged 18 years and older who have an overweight classification,5098.0,,Male,"(37.63864012300047, -120.99999953799971)",6,Gender,Male
+11,2016,CA,California,29.5,29.5,Percent of adults aged 18 years and older who have an overweight classification,5253.0,,Female,"(37.63864012300047, -120.99999953799971)",6,Gender,Female
+12,2016,CO,Colorado,43.0,43.0,Percent of adults aged 18 years and older who have an overweight classification,6482.0,,Male,"(38.843840757000464, -106.13361092099967)",8,Gender,Male
+13,2016,CO,Colorado,28.1,28.1,Percent of adults aged 18 years and older who have an overweight classification,7154.0,,Female,"(38.843840757000464, -106.13361092099967)",8,Gender,Female
+14,2016,CT,Connecticut,42.4,42.4,Percent of adults aged 18 years and older who have an overweight classification,4477.0,,Male,"(41.56266102000046, -72.64984095199964)",9,Gender,Male
+15,2016,CT,Connecticut,29.2,29.2,Percent of adults aged 18 years and older who have an overweight classification,5483.0,,Female,"(41.56266102000046, -72.64984095199964)",9,Gender,Female
+16,2016,DE,Delaware,42.5,42.5,Percent of adults aged 18 years and older who have an overweight classification,1713.0,,Male,"(39.008830667000495, -75.57774116799965)",10,Gender,Male
+17,2016,DE,Delaware,32.3,32.3,Percent of adults aged 18 years and older who have an overweight classification,1989.0,,Female,"(39.008830667000495, -75.57774116799965)",10,Gender,Female
+18,2016,DC,District of Columbia,39.7,39.7,Percent of adults aged 18 years and older who have an overweight classification,1522.0,,Male,"(38.89037138500049, -77.03196112699965)",11,Gender,Male
+19,2016,DC,District of Columbia,22.5,22.5,Percent of adults aged 18 years and older who have an overweight classification,1953.0,,Female,"(38.89037138500049, -77.03196112699965)",11,Gender,Female
+20,2016,FL,Florida,41.4,41.4,Percent of adults aged 18 years and older who have an overweight classification,14638.0,,Male,"(28.932040377000476, -81.92896053899966)",12,Gender,Male
+21,2016,FL,Florida,30.1,30.1,Percent of adults aged 18 years and older who have an overweight classification,18545.0,,Female,"(28.932040377000476, -81.92896053899966)",12,Gender,Female
+22,2016,GA,Georgia,39.9,39.9,Percent of adults aged 18 years and older who have an overweight classification,2090.0,,Male,"(32.83968109300048, -83.62758034599966)",13,Gender,Male
+23,2016,GA,Georgia,28.8,28.8,Percent of adults aged 18 years and older who have an overweight classification,2793.0,,Female,"(32.83968109300048, -83.62758034599966)",13,Gender,Female
+24,2016,HI,Hawaii,40.7,40.7,Percent of adults aged 18 years and older who have an overweight classification,3655.0,,Male,"(21.304850435000446, -157.85774940299973)",15,Gender,Male
+25,2016,HI,Hawaii,26.5,26.5,Percent of adults aged 18 years and older who have an overweight classification,4003.0,,Female,"(21.304850435000446, -157.85774940299973)",15,Gender,Female
+26,2016,ID,Idaho,44.0,44.0,Percent of adults aged 18 years and older who have an overweight classification,2129.0,,Male,"(43.682630005000476, -114.3637300419997)",16,Gender,Male
+27,2016,ID,Idaho,30.0,30.0,Percent of adults aged 18 years and older who have an overweight classification,2751.0,,Female,"(43.682630005000476, -114.3637300419997)",16,Gender,Female
+28,2016,IL,Illinois,39.4,39.4,Percent of adults aged 18 years and older who have an overweight classification,2026.0,,Male,"(40.48501028300046, -88.99771017799969)",17,Gender,Male
+29,2016,IL,Illinois,27.5,27.5,Percent of adults aged 18 years and older who have an overweight classification,2492.0,,Female,"(40.48501028300046, -88.99771017799969)",17,Gender,Female
+30,2016,IN,Indiana,38.9,38.9,Percent of adults aged 18 years and older who have an overweight classification,4423.0,,Male,"(39.766910452000445, -86.14996019399968)",18,Gender,Male
+31,2016,IN,Indiana,30.4,30.4,Percent of adults aged 18 years and older who have an overweight classification,5896.0,,Female,"(39.766910452000445, -86.14996019399968)",18,Gender,Female
+32,2016,IA,Iowa,42.5,42.5,Percent of adults aged 18 years and older who have an overweight classification,3095.0,,Male,"(42.46940091300047, -93.81649055599968)",19,Gender,Male
+33,2016,IA,Iowa,30.6,30.6,Percent of adults aged 18 years and older who have an overweight classification,3549.0,,Female,"(42.46940091300047, -93.81649055599968)",19,Gender,Female
+34,2016,KS,Kansas,41.5,41.5,Percent of adults aged 18 years and older who have an overweight classification,5071.0,,Male,"(38.34774030000045, -98.20078122699965)",20,Gender,Male
+35,2016,KS,Kansas,29.2,29.2,Percent of adults aged 18 years and older who have an overweight classification,5873.0,,Female,"(38.34774030000045, -98.20078122699965)",20,Gender,Female
+36,2016,KY,Kentucky,40.2,40.2,Percent of adults aged 18 years and older who have an overweight classification,4061.0,,Male,"(37.645970271000465, -84.77497104799966)",21,Gender,Male
+37,2016,KY,Kentucky,29.6,29.6,Percent of adults aged 18 years and older who have an overweight classification,5522.0,,Female,"(37.645970271000465, -84.77497104799966)",21,Gender,Female
+38,2016,LA,Louisiana,39.0,39.0,Percent of adults aged 18 years and older who have an overweight classification,1895.0,,Male,"(31.31266064400046, -92.44568007099969)",22,Gender,Male
+39,2016,LA,Louisiana,28.5,28.5,Percent of adults aged 18 years and older who have an overweight classification,2972.0,,Female,"(31.31266064400046, -92.44568007099969)",22,Gender,Female
+40,2016,ME,Maine,41.5,41.5,Percent of adults aged 18 years and older who have an overweight classification,4199.0,,Male,"(45.254228894000505, -68.98503133599962)",23,Gender,Male
+41,2016,ME,Maine,29.1,29.1,Percent of adults aged 18 years and older who have an overweight classification,5355.0,,Female,"(45.254228894000505, -68.98503133599962)",23,Gender,Female
+42,2016,MD,Maryland,41.1,41.1,Percent of adults aged 18 years and older who have an overweight classification,7189.0,,Male,"(39.29058096400047, -76.60926011099963)",24,Gender,Male
+43,2016,MD,Maryland,28.2,28.2,Percent of adults aged 18 years and older who have an overweight classification,9512.0,,Female,"(39.29058096400047, -76.60926011099963)",24,Gender,Female
+44,2016,MA,Massachusetts,42.6,42.6,Percent of adults aged 18 years and older who have an overweight classification,3704.0,,Male,"(42.27687047000046, -72.08269067499964)",25,Gender,Male
+45,2016,MA,Massachusetts,30.7,30.7,Percent of adults aged 18 years and older who have an overweight classification,3775.0,,Female,"(42.27687047000046, -72.08269067499964)",25,Gender,Female
+46,2016,MI,Michigan,40.0,40.0,Percent of adults aged 18 years and older who have an overweight classification,5182.0,,Male,"(44.6613195430005, -84.71439026999968)",26,Gender,Male
+47,2016,MI,Michigan,29.9,29.9,Percent of adults aged 18 years and older who have an overweight classification,5948.0,,Female,"(44.6613195430005, -84.71439026999968)",26,Gender,Female
+48,2016,MN,Minnesota,43.5,43.5,Percent of adults aged 18 years and older who have an overweight classification,7658.0,,Male,"(46.35564873600049, -94.79420050299967)",27,Gender,Male
+49,2016,MN,Minnesota,30.1,30.1,Percent of adults aged 18 years and older who have an overweight classification,7762.0,,Female,"(46.35564873600049, -94.79420050299967)",27,Gender,Female
+50,2016,MS,Mississippi,38.9,38.9,Percent of adults aged 18 years and older who have an overweight classification,1904.0,,Male,"(32.745510099000455, -89.53803082499968)",28,Gender,Male
+51,2016,MS,Mississippi,29.3,29.3,Percent of adults aged 18 years and older who have an overweight classification,2916.0,,Female,"(32.745510099000455, -89.53803082499968)",28,Gender,Female
+52,2016,MO,Missouri,42.6,42.6,Percent of adults aged 18 years and older who have an overweight classification,2948.0,,Male,"(38.635790776000476, -92.56630005299968)",29,Gender,Male
+53,2016,MO,Missouri,28.4,28.4,Percent of adults aged 18 years and older who have an overweight classification,3629.0,,Female,"(38.635790776000476, -92.56630005299968)",29,Gender,Female
+54,2016,MT,Montana,44.5,44.5,Percent of adults aged 18 years and older who have an overweight classification,2625.0,,Male,"(47.06652897200047, -109.42442064499971)",30,Gender,Male
+55,2016,MT,Montana,29.3,29.3,Percent of adults aged 18 years and older who have an overweight classification,2856.0,,Female,"(47.06652897200047, -109.42442064499971)",30,Gender,Female
+56,2016,NE,Nebraska,42.4,42.4,Percent of adults aged 18 years and older who have an overweight classification,6460.0,,Male,"(41.6410409880005, -99.36572062299967)",31,Gender,Male
+57,2016,NE,Nebraska,30.4,30.4,Percent of adults aged 18 years and older who have an overweight classification,7713.0,,Female,"(41.6410409880005, -99.36572062299967)",31,Gender,Female
+58,2016,NV,Nevada,43.3,43.3,Percent of adults aged 18 years and older who have an overweight classification,1866.0,,Male,"(39.493240390000494, -117.07184056399967)",32,Gender,Male
+59,2016,NV,Nevada,29.2,29.2,Percent of adults aged 18 years and older who have an overweight classification,2115.0,,Female,"(39.493240390000494, -117.07184056399967)",32,Gender,Female
+60,2016,NH,New Hampshire,44.8,44.8,Percent of adults aged 18 years and older who have an overweight classification,2732.0,,Male,"(43.65595011300047, -71.50036091999965)",33,Gender,Male
+61,2016,NH,New Hampshire,28.6,28.6,Percent of adults aged 18 years and older who have an overweight classification,3156.0,,Female,"(43.65595011300047, -71.50036091999965)",33,Gender,Female
+62,2016,NJ,New Jersey,43.0,43.0,Percent of adults aged 18 years and older who have an overweight classification,3083.0,,Male,"(40.13057004800049, -74.27369128799967)",34,Gender,Male
+63,2016,NJ,New Jersey,29.8,29.8,Percent of adults aged 18 years and older who have an overweight classification,3727.0,,Female,"(40.13057004800049, -74.27369128799967)",34,Gender,Female
+64,2016,NM,New Mexico,41.1,41.1,Percent of adults aged 18 years and older who have an overweight classification,2485.0,,Male,"(34.52088095200048, -106.24058098499967)",35,Gender,Male
+65,2016,NM,New Mexico,31.9,31.9,Percent of adults aged 18 years and older who have an overweight classification,3046.0,,Female,"(34.52088095200048, -106.24058098499967)",35,Gender,Female
+66,2016,NY,New York,41.1,41.1,Percent of adults aged 18 years and older who have an overweight classification,14316.0,,Male,"(42.82700103200045, -75.54397042699964)",36,Gender,Male
+67,2016,NY,New York,29.6,29.6,Percent of adults aged 18 years and older who have an overweight classification,16952.0,,Female,"(42.82700103200045, -75.54397042699964)",36,Gender,Female
+68,2016,NC,North Carolina,41.0,41.0,Percent of adults aged 18 years and older who have an overweight classification,2837.0,,Male,"(35.466220975000454, -79.15925046299964)",37,Gender,Male
+69,2016,NC,North Carolina,29.0,29.0,Percent of adults aged 18 years and older who have an overweight classification,3146.0,,Female,"(35.466220975000454, -79.15925046299964)",37,Gender,Female
+70,2016,ND,North Dakota,41.4,41.4,Percent of adults aged 18 years and older who have an overweight classification,2541.0,,Male,"(47.47531977900047, -100.11842104899966)",38,Gender,Male
+71,2016,ND,North Dakota,30.3,30.3,Percent of adults aged 18 years and older who have an overweight classification,2807.0,,Female,"(47.47531977900047, -100.11842104899966)",38,Gender,Female
+72,2016,OH,Ohio,39.8,39.8,Percent of adults aged 18 years and older who have an overweight classification,4972.0,,Male,"(40.06021014100048, -82.40426005599966)",39,Gender,Male
+73,2016,OH,Ohio,29.7,29.7,Percent of adults aged 18 years and older who have an overweight classification,6483.0,,Female,"(40.06021014100048, -82.40426005599966)",39,Gender,Female
+74,2016,OK,Oklahoma,41.3,41.3,Percent of adults aged 18 years and older who have an overweight classification,2710.0,,Male,"(35.47203135600046, -97.52107021399968)",40,Gender,Male
+75,2016,OK,Oklahoma,30.6,30.6,Percent of adults aged 18 years and older who have an overweight classification,3739.0,,Female,"(35.47203135600046, -97.52107021399968)",40,Gender,Female
+76,2016,OR,Oregon,39.7,39.7,Percent of adults aged 18 years and older who have an overweight classification,2312.0,,Male,"(44.56744942400047, -120.15503132599969)",41,Gender,Male
+77,2016,OR,Oregon,27.7,27.7,Percent of adults aged 18 years and older who have an overweight classification,2683.0,,Female,"(44.56744942400047, -120.15503132599969)",41,Gender,Female
+78,2016,PA,Pennsylvania,40.1,40.1,Percent of adults aged 18 years and older who have an overweight classification,3052.0,,Male,"(40.79373015200048, -77.86070029399963)",42,Gender,Male
+79,2016,PA,Pennsylvania,30.1,30.1,Percent of adults aged 18 years and older who have an overweight classification,3315.0,,Female,"(40.79373015200048, -77.86070029399963)",42,Gender,Female
+80,2016,RI,Rhode Island,42.7,42.7,Percent of adults aged 18 years and older who have an overweight classification,2131.0,,Male,"(41.70828019300046, -71.52247031399963)",44,Gender,Male
+81,2016,RI,Rhode Island,31.5,31.5,Percent of adults aged 18 years and older who have an overweight classification,2805.0,,Female,"(41.70828019300046, -71.52247031399963)",44,Gender,Female
+82,2016,SC,South Carolina,40.6,40.6,Percent of adults aged 18 years and older who have an overweight classification,4464.0,,Male,"(33.998821303000454, -81.04537120699968)",45,Gender,Male
+83,2016,SC,South Carolina,29.8,29.8,Percent of adults aged 18 years and older who have an overweight classification,6039.0,,Female,"(33.998821303000454, -81.04537120699968)",45,Gender,Female
+84,2016,SD,South Dakota,41.5,41.5,Percent of adults aged 18 years and older who have an overweight classification,2438.0,,Male,"(44.353130053000484, -100.3735306369997)",46,Gender,Male
+85,2016,SD,South Dakota,32.8,32.8,Percent of adults aged 18 years and older who have an overweight classification,2933.0,,Female,"(44.353130053000484, -100.3735306369997)",46,Gender,Female
+86,2016,TN,Tennessee,37.6,37.6,Percent of adults aged 18 years and older who have an overweight classification,2515.0,,Male,"(35.68094058000048, -85.77449091399967)",47,Gender,Male
+87,2016,TN,Tennessee,29.9,29.9,Percent of adults aged 18 years and older who have an overweight classification,3139.0,,Female,"(35.68094058000048, -85.77449091399967)",47,Gender,Female
+88,2016,TX,Texas,41.2,41.2,Percent of adults aged 18 years and older who have an overweight classification,4595.0,,Male,"(31.827240407000488, -99.42677020599967)",48,Gender,Male
+89,2016,TX,Texas,27.8,27.8,Percent of adults aged 18 years and older who have an overweight classification,6194.0,,Female,"(31.827240407000488, -99.42677020599967)",48,Gender,Female
+90,2016,UT,Utah,41.7,41.7,Percent of adults aged 18 years and older who have an overweight classification,4872.0,,Male,"(39.360700171000474, -111.58713063499971)",49,Gender,Male
+91,2016,UT,Utah,27.7,27.7,Percent of adults aged 18 years and older who have an overweight classification,5163.0,,Female,"(39.360700171000474, -111.58713063499971)",49,Gender,Female
+92,2016,VT,Vermont,42.7,42.7,Percent of adults aged 18 years and older who have an overweight classification,2811.0,,Male,"(43.62538123900049, -72.51764079099962)",50,Gender,Male
+93,2016,VT,Vermont,26.5,26.5,Percent of adults aged 18 years and older who have an overweight classification,3260.0,,Female,"(43.62538123900049, -72.51764079099962)",50,Gender,Female
+94,2016,VA,Virginia,42.2,42.2,Percent of adults aged 18 years and older who have an overweight classification,3758.0,,Male,"(37.54268067400045, -78.45789046299967)",51,Gender,Male
+95,2016,VA,Virginia,30.6,30.6,Percent of adults aged 18 years and older who have an overweight classification,4535.0,,Female,"(37.54268067400045, -78.45789046299967)",51,Gender,Female
+96,2016,WA,Washington,40.3,40.3,Percent of adults aged 18 years and older who have an overweight classification,6152.0,,Male,"(47.52227862900048, -120.47001078999972)",53,Gender,Male
+97,2016,WA,Washington,28.9,28.9,Percent of adults aged 18 years and older who have an overweight classification,6838.0,,Female,"(47.52227862900048, -120.47001078999972)",53,Gender,Female
+98,2016,WV,West Virginia,37.8,37.8,Percent of adults aged 18 years and older who have an overweight classification,3040.0,,Male,"(38.66551020200046, -80.71264013499967)",54,Gender,Male
+99,2016,WV,West Virginia,28.6,28.6,Percent of adults aged 18 years and older who have an overweight classification,3595.0,,Female,"(38.66551020200046, -80.71264013499967)",54,Gender,Female
+100,2016,WI,Wisconsin,40.7,40.7,Percent of adults aged 18 years and older who have an overweight classification,2286.0,,Male,"(44.39319117400049, -89.81637074199966)",55,Gender,Male
+101,2016,WI,Wisconsin,30.0,30.0,Percent of adults aged 18 years and older who have an overweight classification,2507.0,,Female,"(44.39319117400049, -89.81637074199966)",55,Gender,Female
+102,2016,WY,Wyoming,42.7,42.7,Percent of adults aged 18 years and older who have an overweight classification,1907.0,,Male,"(43.23554134300048, -108.10983035299967)",56,Gender,Male
+103,2016,WY,Wyoming,29.8,29.8,Percent of adults aged 18 years and older who have an overweight classification,2293.0,,Female,"(43.23554134300048, -108.10983035299967)",56,Gender,Female
+104,2016,GU,Guam,39.0,39.0,Percent of adults aged 18 years and older who have an overweight classification,672.0,,Male,"(13.444304, 144.793731)",66,Gender,Male
+105,2016,GU,Guam,33.1,33.1,Percent of adults aged 18 years and older who have an overweight classification,805.0,,Female,"(13.444304, 144.793731)",66,Gender,Female
+106,2016,PR,Puerto Rico,38.4,38.4,Percent of adults aged 18 years and older who have an overweight classification,2105.0,,Male,"(18.220833, -66.590149)",72,Gender,Male
+107,2016,PR,Puerto Rico,33.5,33.5,Percent of adults aged 18 years and older who have an overweight classification,3423.0,,Female,"(18.220833, -66.590149)",72,Gender,Female
+108,2016,VI,Virgin Islands,31.9,31.9,Percent of adults aged 18 years and older who have an overweight classification,468.0,,Male,"(18.335765, -64.896335)",78,Gender,Male
+109,2016,VI,Virgin Islands,33.4,33.4,Percent of adults aged 18 years and older who have an overweight classification,735.0,,Female,"(18.335765, -64.896335)",78,Gender,Female
+110,2016,US,National,29.6,29.6,Percent of adults aged 18 years and older who have obesity,198440.0,,Male,,59,Gender,Male
+111,2016,US,National,29.5,29.5,Percent of adults aged 18 years and older who have obesity,240000.0,,Female,,59,Gender,Female
+112,2016,AL,Alabama,36.2,36.2,Percent of adults aged 18 years and older who have obesity,2711.0,,Male,"(32.84057112200048, -86.63186076199969)",1,Gender,Male
+113,2016,AL,Alabama,35.2,35.2,Percent of adults aged 18 years and older who have obesity,3815.0,,Female,"(32.84057112200048, -86.63186076199969)",1,Gender,Female
+114,2016,AK,Alaska,32.3,32.3,Percent of adults aged 18 years and older who have obesity,1334.0,,Male,"(64.84507995700051, -147.72205903599973)",2,Gender,Male
+115,2016,AK,Alaska,30.3,30.3,Percent of adults aged 18 years and older who have obesity,1405.0,,Female,"(64.84507995700051, -147.72205903599973)",2,Gender,Female
+116,2016,AZ,Arizona,30.2,30.2,Percent of adults aged 18 years and older who have obesity,4358.0,,Male,"(34.865970280000454, -111.76381127699972)",4,Gender,Male
+117,2016,AZ,Arizona,27.8,27.8,Percent of adults aged 18 years and older who have obesity,5675.0,,Female,"(34.865970280000454, -111.76381127699972)",4,Gender,Female
+118,2016,AR,Arkansas,32.1,32.1,Percent of adults aged 18 years and older who have obesity,1918.0,,Male,"(34.74865012400045, -92.27449074299966)",5,Gender,Male
+119,2016,AR,Arkansas,39.4,39.4,Percent of adults aged 18 years and older who have obesity,2941.0,,Female,"(34.74865012400045, -92.27449074299966)",5,Gender,Female
+120,2016,CA,California,24.9,24.9,Percent of adults aged 18 years and older who have obesity,5098.0,,Male,"(37.63864012300047, -120.99999953799971)",6,Gender,Male
+121,2016,CA,California,25.2,25.2,Percent of adults aged 18 years and older who have obesity,5253.0,,Female,"(37.63864012300047, -120.99999953799971)",6,Gender,Female
+122,2016,CO,Colorado,22.4,22.4,Percent of adults aged 18 years and older who have obesity,6482.0,,Male,"(38.843840757000464, -106.13361092099967)",8,Gender,Male
+123,2016,CO,Colorado,22.2,22.2,Percent of adults aged 18 years and older who have obesity,7154.0,,Female,"(38.843840757000464, -106.13361092099967)",8,Gender,Female
+124,2016,CT,Connecticut,26.9,26.9,Percent of adults aged 18 years and older who have obesity,4477.0,,Male,"(41.56266102000046, -72.64984095199964)",9,Gender,Male
+125,2016,CT,Connecticut,25.0,25.0,Percent of adults aged 18 years and older who have obesity,5483.0,,Female,"(41.56266102000046, -72.64984095199964)",9,Gender,Female
+126,2016,DE,Delaware,30.7,30.7,Percent of adults aged 18 years and older who have obesity,1713.0,,Male,"(39.008830667000495, -75.57774116799965)",10,Gender,Male
+127,2016,DE,Delaware,30.7,30.7,Percent of adults aged 18 years and older who have obesity,1989.0,,Female,"(39.008830667000495, -75.57774116799965)",10,Gender,Female
+128,2016,DC,District of Columbia,18.0,18.0,Percent of adults aged 18 years and older who have obesity,1522.0,,Male,"(38.89037138500049, -77.03196112699965)",11,Gender,Male
+129,2016,DC,District of Columbia,27.0,27.0,Percent of adults aged 18 years and older who have obesity,1953.0,,Female,"(38.89037138500049, -77.03196112699965)",11,Gender,Female
+130,2016,FL,Florida,28.3,28.3,Percent of adults aged 18 years and older who have obesity,14638.0,,Male,"(28.932040377000476, -81.92896053899966)",12,Gender,Male
+131,2016,FL,Florida,26.6,26.6,Percent of adults aged 18 years and older who have obesity,18545.0,,Female,"(28.932040377000476, -81.92896053899966)",12,Gender,Female
+132,2016,GA,Georgia,29.8,29.8,Percent of adults aged 18 years and older who have obesity,2090.0,,Male,"(32.83968109300048, -83.62758034599966)",13,Gender,Male
+133,2016,GA,Georgia,33.1,33.1,Percent of adults aged 18 years and older who have obesity,2793.0,,Female,"(32.83968109300048, -83.62758034599966)",13,Gender,Female
+134,2016,HI,Hawaii,26.1,26.1,Percent of adults aged 18 years and older who have obesity,3655.0,,Male,"(21.304850435000446, -157.85774940299973)",15,Gender,Male
+135,2016,HI,Hawaii,21.4,21.4,Percent of adults aged 18 years and older who have obesity,4003.0,,Female,"(21.304850435000446, -157.85774940299973)",15,Gender,Female
+136,2016,ID,Idaho,28.1,28.1,Percent of adults aged 18 years and older who have obesity,2129.0,,Male,"(43.682630005000476, -114.3637300419997)",16,Gender,Male
+137,2016,ID,Idaho,26.6,26.6,Percent of adults aged 18 years and older who have obesity,2751.0,,Female,"(43.682630005000476, -114.3637300419997)",16,Gender,Female
+138,2016,IL,Illinois,32.3,32.3,Percent of adults aged 18 years and older who have obesity,2026.0,,Male,"(40.48501028300046, -88.99771017799969)",17,Gender,Male
+139,2016,IL,Illinois,31.0,31.0,Percent of adults aged 18 years and older who have obesity,2492.0,,Female,"(40.48501028300046, -88.99771017799969)",17,Gender,Female
+140,2016,IN,Indiana,32.3,32.3,Percent of adults aged 18 years and older who have obesity,4423.0,,Male,"(39.766910452000445, -86.14996019399968)",18,Gender,Male
+141,2016,IN,Indiana,32.6,32.6,Percent of adults aged 18 years and older who have obesity,5896.0,,Female,"(39.766910452000445, -86.14996019399968)",18,Gender,Female
+142,2016,IA,Iowa,33.8,33.8,Percent of adults aged 18 years and older who have obesity,3095.0,,Male,"(42.46940091300047, -93.81649055599968)",19,Gender,Male
+143,2016,IA,Iowa,30.0,30.0,Percent of adults aged 18 years and older who have obesity,3549.0,,Female,"(42.46940091300047, -93.81649055599968)",19,Gender,Female
+144,2016,KS,Kansas,31.4,31.4,Percent of adults aged 18 years and older who have obesity,5071.0,,Male,"(38.34774030000045, -98.20078122699965)",20,Gender,Male
+145,2016,KS,Kansas,30.9,30.9,Percent of adults aged 18 years and older who have obesity,5873.0,,Female,"(38.34774030000045, -98.20078122699965)",20,Gender,Female
+146,2016,KY,Kentucky,33.1,33.1,Percent of adults aged 18 years and older who have obesity,4061.0,,Male,"(37.645970271000465, -84.77497104799966)",21,Gender,Male
+147,2016,KY,Kentucky,35.2,35.2,Percent of adults aged 18 years and older who have obesity,5522.0,,Female,"(37.645970271000465, -84.77497104799966)",21,Gender,Female
+148,2016,LA,Louisiana,34.5,34.5,Percent of adults aged 18 years and older who have obesity,1895.0,,Male,"(31.31266064400046, -92.44568007099969)",22,Gender,Male
+149,2016,LA,Louisiana,36.5,36.5,Percent of adults aged 18 years and older who have obesity,2972.0,,Female,"(31.31266064400046, -92.44568007099969)",22,Gender,Female
+150,2016,ME,Maine,30.3,30.3,Percent of adults aged 18 years and older who have obesity,4199.0,,Male,"(45.254228894000505, -68.98503133599962)",23,Gender,Male
+151,2016,ME,Maine,29.5,29.5,Percent of adults aged 18 years and older who have obesity,5355.0,,Female,"(45.254228894000505, -68.98503133599962)",23,Gender,Female
+152,2016,MD,Maryland,28.3,28.3,Percent of adults aged 18 years and older who have obesity,7189.0,,Male,"(39.29058096400047, -76.60926011099963)",24,Gender,Male
+153,2016,MD,Maryland,31.5,31.5,Percent of adults aged 18 years and older who have obesity,9512.0,,Female,"(39.29058096400047, -76.60926011099963)",24,Gender,Female
+154,2016,MA,Massachusetts,25.9,25.9,Percent of adults aged 18 years and older who have obesity,3704.0,,Male,"(42.27687047000046, -72.08269067499964)",25,Gender,Male
+155,2016,MA,Massachusetts,21.1,21.1,Percent of adults aged 18 years and older who have obesity,3775.0,,Female,"(42.27687047000046, -72.08269067499964)",25,Gender,Female
+156,2016,MI,Michigan,32.4,32.4,Percent of adults aged 18 years and older who have obesity,5182.0,,Male,"(44.6613195430005, -84.71439026999968)",26,Gender,Male
+157,2016,MI,Michigan,32.6,32.6,Percent of adults aged 18 years and older who have obesity,5948.0,,Female,"(44.6613195430005, -84.71439026999968)",26,Gender,Female
+158,2016,MN,Minnesota,29.5,29.5,Percent of adults aged 18 years and older who have obesity,7658.0,,Male,"(46.35564873600049, -94.79420050299967)",27,Gender,Male
+159,2016,MN,Minnesota,25.9,25.9,Percent of adults aged 18 years and older who have obesity,7762.0,,Female,"(46.35564873600049, -94.79420050299967)",27,Gender,Female
+160,2016,MS,Mississippi,35.2,35.2,Percent of adults aged 18 years and older who have obesity,1904.0,,Male,"(32.745510099000455, -89.53803082499968)",28,Gender,Male
+161,2016,MS,Mississippi,39.3,39.3,Percent of adults aged 18 years and older who have obesity,2916.0,,Female,"(32.745510099000455, -89.53803082499968)",28,Gender,Female
+162,2016,MO,Missouri,32.0,32.0,Percent of adults aged 18 years and older who have obesity,2948.0,,Male,"(38.635790776000476, -92.56630005299968)",29,Gender,Male
+163,2016,MO,Missouri,31.4,31.4,Percent of adults aged 18 years and older who have obesity,3629.0,,Female,"(38.635790776000476, -92.56630005299968)",29,Gender,Female
+164,2016,MT,Montana,25.0,25.0,Percent of adults aged 18 years and older who have obesity,2625.0,,Male,"(47.06652897200047, -109.42442064499971)",30,Gender,Male
+165,2016,MT,Montana,26.0,26.0,Percent of adults aged 18 years and older who have obesity,2856.0,,Female,"(47.06652897200047, -109.42442064499971)",30,Gender,Female
+166,2016,NE,Nebraska,32.6,32.6,Percent of adults aged 18 years and older who have obesity,6460.0,,Male,"(41.6410409880005, -99.36572062299967)",31,Gender,Male
+167,2016,NE,Nebraska,31.4,31.4,Percent of adults aged 18 years and older who have obesity,7713.0,,Female,"(41.6410409880005, -99.36572062299967)",31,Gender,Female
+168,2016,NV,Nevada,25.8,25.8,Percent of adults aged 18 years and older who have obesity,1866.0,,Male,"(39.493240390000494, -117.07184056399967)",32,Gender,Male
+169,2016,NV,Nevada,25.8,25.8,Percent of adults aged 18 years and older who have obesity,2115.0,,Female,"(39.493240390000494, -117.07184056399967)",32,Gender,Female
+170,2016,NH,New Hampshire,26.6,26.6,Percent of adults aged 18 years and older who have obesity,2732.0,,Male,"(43.65595011300047, -71.50036091999965)",33,Gender,Male
+171,2016,NH,New Hampshire,26.5,26.5,Percent of adults aged 18 years and older who have obesity,3156.0,,Female,"(43.65595011300047, -71.50036091999965)",33,Gender,Female
+172,2016,NJ,New Jersey,29.1,29.1,Percent of adults aged 18 years and older who have obesity,3083.0,,Male,"(40.13057004800049, -74.27369128799967)",34,Gender,Male
+173,2016,NJ,New Jersey,25.6,25.6,Percent of adults aged 18 years and older who have obesity,3727.0,,Female,"(40.13057004800049, -74.27369128799967)",34,Gender,Female
+174,2016,NM,New Mexico,29.1,29.1,Percent of adults aged 18 years and older who have obesity,2485.0,,Male,"(34.52088095200048, -106.24058098499967)",35,Gender,Male
+175,2016,NM,New Mexico,27.6,27.6,Percent of adults aged 18 years and older who have obesity,3046.0,,Female,"(34.52088095200048, -106.24058098499967)",35,Gender,Female
+176,2016,NY,New York,25.9,25.9,Percent of adults aged 18 years and older who have obesity,14316.0,,Male,"(42.82700103200045, -75.54397042699964)",36,Gender,Male
+177,2016,NY,New York,25.2,25.2,Percent of adults aged 18 years and older who have obesity,16952.0,,Female,"(42.82700103200045, -75.54397042699964)",36,Gender,Female
+178,2016,NC,North Carolina,30.3,30.3,Percent of adults aged 18 years and older who have obesity,2837.0,,Male,"(35.466220975000454, -79.15925046299964)",37,Gender,Male
+179,2016,NC,North Carolina,33.3,33.3,Percent of adults aged 18 years and older who have obesity,3146.0,,Female,"(35.466220975000454, -79.15925046299964)",37,Gender,Female
+180,2016,ND,North Dakota,32.2,32.2,Percent of adults aged 18 years and older who have obesity,2541.0,,Male,"(47.47531977900047, -100.11842104899966)",38,Gender,Male
+181,2016,ND,North Dakota,31.6,31.6,Percent of adults aged 18 years and older who have obesity,2807.0,,Female,"(47.47531977900047, -100.11842104899966)",38,Gender,Female
+182,2016,OH,Ohio,30.9,30.9,Percent of adults aged 18 years and older who have obesity,4972.0,,Male,"(40.06021014100048, -82.40426005599966)",39,Gender,Male
+183,2016,OH,Ohio,32.1,32.1,Percent of adults aged 18 years and older who have obesity,6483.0,,Female,"(40.06021014100048, -82.40426005599966)",39,Gender,Female
+184,2016,OK,Oklahoma,33.3,33.3,Percent of adults aged 18 years and older who have obesity,2710.0,,Male,"(35.47203135600046, -97.52107021399968)",40,Gender,Male
+185,2016,OK,Oklahoma,32.2,32.2,Percent of adults aged 18 years and older who have obesity,3739.0,,Female,"(35.47203135600046, -97.52107021399968)",40,Gender,Female
+186,2016,OR,Oregon,28.7,28.7,Percent of adults aged 18 years and older who have obesity,2312.0,,Male,"(44.56744942400047, -120.15503132599969)",41,Gender,Male
+187,2016,OR,Oregon,28.8,28.8,Percent of adults aged 18 years and older who have obesity,2683.0,,Female,"(44.56744942400047, -120.15503132599969)",41,Gender,Female
+188,2016,PA,Pennsylvania,31.3,31.3,Percent of adults aged 18 years and older who have obesity,3052.0,,Male,"(40.79373015200048, -77.86070029399963)",42,Gender,Male
+189,2016,PA,Pennsylvania,29.3,29.3,Percent of adults aged 18 years and older who have obesity,3315.0,,Female,"(40.79373015200048, -77.86070029399963)",42,Gender,Female
+190,2016,RI,Rhode Island,28.0,28.0,Percent of adults aged 18 years and older who have obesity,2131.0,,Male,"(41.70828019300046, -71.52247031399963)",44,Gender,Male
+191,2016,RI,Rhode Island,25.3,25.3,Percent of adults aged 18 years and older who have obesity,2805.0,,Female,"(41.70828019300046, -71.52247031399963)",44,Gender,Female
+192,2016,SC,South Carolina,31.0,31.0,Percent of adults aged 18 years and older who have obesity,4464.0,,Male,"(33.998821303000454, -81.04537120699968)",45,Gender,Male
+193,2016,SC,South Carolina,33.5,33.5,Percent of adults aged 18 years and older who have obesity,6039.0,,Female,"(33.998821303000454, -81.04537120699968)",45,Gender,Female
+194,2016,SD,South Dakota,32.3,32.3,Percent of adults aged 18 years and older who have obesity,2438.0,,Male,"(44.353130053000484, -100.3735306369997)",46,Gender,Male
+195,2016,SD,South Dakota,26.7,26.7,Percent of adults aged 18 years and older who have obesity,2933.0,,Female,"(44.353130053000484, -100.3735306369997)",46,Gender,Female
+196,2016,TN,Tennessee,36.2,36.2,Percent of adults aged 18 years and older who have obesity,2515.0,,Male,"(35.68094058000048, -85.77449091399967)",47,Gender,Male
+197,2016,TN,Tennessee,33.5,33.5,Percent of adults aged 18 years and older who have obesity,3139.0,,Female,"(35.68094058000048, -85.77449091399967)",47,Gender,Female
+198,2016,TX,Texas,32.8,32.8,Percent of adults aged 18 years and older who have obesity,4595.0,,Male,"(31.827240407000488, -99.42677020599967)",48,Gender,Male
+199,2016,TX,Texas,34.6,34.6,Percent of adults aged 18 years and older who have obesity,6194.0,,Female,"(31.827240407000488, -99.42677020599967)",48,Gender,Female
+200,2016,UT,Utah,25.6,25.6,Percent of adults aged 18 years and older who have obesity,4872.0,,Male,"(39.360700171000474, -111.58713063499971)",49,Gender,Male
+201,2016,UT,Utah,25.1,25.1,Percent of adults aged 18 years and older who have obesity,5163.0,,Female,"(39.360700171000474, -111.58713063499971)",49,Gender,Female
+202,2016,VT,Vermont,27.9,27.9,Percent of adults aged 18 years and older who have obesity,2811.0,,Male,"(43.62538123900049, -72.51764079099962)",50,Gender,Male
+203,2016,VT,Vermont,26.2,26.2,Percent of adults aged 18 years and older who have obesity,3260.0,,Female,"(43.62538123900049, -72.51764079099962)",50,Gender,Female
+204,2016,VA,Virginia,28.5,28.5,Percent of adults aged 18 years and older who have obesity,3758.0,,Male,"(37.54268067400045, -78.45789046299967)",51,Gender,Male
+205,2016,VA,Virginia,29.5,29.5,Percent of adults aged 18 years and older who have obesity,4535.0,,Female,"(37.54268067400045, -78.45789046299967)",51,Gender,Female
+206,2016,WA,Washington,29.5,29.5,Percent of adults aged 18 years and older who have obesity,6152.0,,Male,"(47.52227862900048, -120.47001078999972)",53,Gender,Male
+207,2016,WA,Washington,27.7,27.7,Percent of adults aged 18 years and older who have obesity,6838.0,,Female,"(47.52227862900048, -120.47001078999972)",53,Gender,Female
+208,2016,WV,West Virginia,37.9,37.9,Percent of adults aged 18 years and older who have obesity,3040.0,,Male,"(38.66551020200046, -80.71264013499967)",54,Gender,Male
+209,2016,WV,West Virginia,37.4,37.4,Percent of adults aged 18 years and older who have obesity,3595.0,,Female,"(38.66551020200046, -80.71264013499967)",54,Gender,Female
+210,2016,WI,Wisconsin,31.5,31.5,Percent of adults aged 18 years and older who have obesity,2286.0,,Male,"(44.39319117400049, -89.81637074199966)",55,Gender,Male
+211,2016,WI,Wisconsin,29.9,29.9,Percent of adults aged 18 years and older who have obesity,2507.0,,Female,"(44.39319117400049, -89.81637074199966)",55,Gender,Female
+212,2016,WY,Wyoming,28.2,28.2,Percent of adults aged 18 years and older who have obesity,1907.0,,Male,"(43.23554134300048, -108.10983035299967)",56,Gender,Male
+213,2016,WY,Wyoming,27.2,27.2,Percent of adults aged 18 years and older who have obesity,2293.0,,Female,"(43.23554134300048, -108.10983035299967)",56,Gender,Female
+214,2016,GU,Guam,29.2,29.2,Percent of adults aged 18 years and older who have obesity,672.0,,Male,"(13.444304, 144.793731)",66,Gender,Male
+215,2016,GU,Guam,27.3,27.3,Percent of adults aged 18 years and older who have obesity,805.0,,Female,"(13.444304, 144.793731)",66,Gender,Female
+216,2016,PR,Puerto Rico,30.0,30.0,Percent of adults aged 18 years and older who have obesity,2105.0,,Male,"(18.220833, -66.590149)",72,Gender,Male
+217,2016,PR,Puerto Rico,31.4,31.4,Percent of adults aged 18 years and older who have obesity,3423.0,,Female,"(18.220833, -66.590149)",72,Gender,Female
+218,2016,VI,Virgin Islands,22.2,22.2,Percent of adults aged 18 years and older who have obesity,468.0,,Male,"(18.335765, -64.896335)",78,Gender,Male
+219,2016,VI,Virgin Islands,41.9,41.9,Percent of adults aged 18 years and older who have obesity,735.0,,Female,"(18.335765, -64.896335)",78,Gender,Female

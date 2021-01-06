@@ -1,0 +1,5 @@
+,Unnamed: 0,year,state,state_name,gender_pc,Data_Value_Alt,Question,Sample_Size,Total,Gender,GeoLocation,LocationID,StratificationCategory1,Stratification1
+204,204,2015,US,National,28.6,28.6,Percent of adults aged 18 years and older who have obesity,221909.0,,Female,,59,Gender,Female
+205,205,2015,US,National,29.1,29.1,Percent of adults aged 18 years and older who have obesity,176407.0,,Male,,59,Gender,Male
+206,206,2015,US,National,29.8,29.8,Percent of adults aged 18 years and older who have an overweight classification,221909.0,,Female,,59,Gender,Female
+207,207,2015,US,National,41.4,41.4,Percent of adults aged 18 years and older who have an overweight classification,176407.0,,Male,,59,Gender,Male

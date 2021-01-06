@@ -1,0 +1,551 @@
+,year,state,state_name,age_pc,Data_Value_Alt,Question,Sample_Size,Total,Age,GeoLocation,LocationID,StratificationCategory1,Stratification1
+0,2016,US,National,25.5,25.5,Percent of adults aged 18 years and older who have an overweight classification,23734.0,,18 - 24,,59,Age (years),18 - 24
+1,2016,US,National,35.7,35.7,Percent of adults aged 18 years and older who have an overweight classification,48951.0,,35 - 44,,59,Age (years),35 - 44
+2,2016,AZ,Arizona,37.6,37.6,Percent of adults aged 18 years and older who have an overweight classification,1281.0,,45 - 54,"(34.865970280000454, -111.76381127699972)",4,Age (years),45 - 54
+3,2016,AZ,Arizona,39.1,39.1,Percent of adults aged 18 years and older who have an overweight classification,2127.0,,55 - 64,"(34.865970280000454, -111.76381127699972)",4,Age (years),55 - 64
+4,2016,AZ,Arizona,38.6,38.6,Percent of adults aged 18 years and older who have an overweight classification,4790.0,,65 or older,"(34.865970280000454, -111.76381127699972)",4,Age (years),65 or older
+5,2016,AR,Arkansas,18.3,18.3,Percent of adults aged 18 years and older who have an overweight classification,122.0,,18 - 24,"(34.74865012400045, -92.27449074299966)",5,Age (years),18 - 24
+6,2016,AR,Arkansas,29.0,29.0,Percent of adults aged 18 years and older who have an overweight classification,373.0,,35 - 44,"(34.74865012400045, -92.27449074299966)",5,Age (years),35 - 44
+7,2016,AR,Arkansas,38.1,38.1,Percent of adults aged 18 years and older who have an overweight classification,648.0,,45 - 54,"(34.74865012400045, -92.27449074299966)",5,Age (years),45 - 54
+8,2016,US,National,37.1,37.1,Percent of adults aged 18 years and older who have an overweight classification,68854.0,,45 - 54,,59,Age (years),45 - 54
+9,2016,US,National,37.5,37.5,Percent of adults aged 18 years and older who have an overweight classification,96566.0,,55 - 64,,59,Age (years),55 - 64
+10,2016,US,National,39.0,39.0,Percent of adults aged 18 years and older who have an overweight classification,157668.0,,65 or older,,59,Age (years),65 or older
+11,2016,AL,Alabama,28.4,28.4,Percent of adults aged 18 years and older who have an overweight classification,412.0,,18 - 24,"(32.84057112200048, -86.63186076199969)",1,Age (years),18 - 24
+12,2016,AL,Alabama,32.2,32.2,Percent of adults aged 18 years and older who have an overweight classification,793.0,,35 - 44,"(32.84057112200048, -86.63186076199969)",1,Age (years),35 - 44
+13,2016,AL,Alabama,33.9,33.9,Percent of adults aged 18 years and older who have an overweight classification,1060.0,,45 - 54,"(32.84057112200048, -86.63186076199969)",1,Age (years),45 - 54
+14,2016,AL,Alabama,35.3,35.3,Percent of adults aged 18 years and older who have an overweight classification,1402.0,,55 - 64,"(32.84057112200048, -86.63186076199969)",1,Age (years),55 - 64
+15,2016,AL,Alabama,39.2,39.2,Percent of adults aged 18 years and older who have an overweight classification,2142.0,,65 or older,"(32.84057112200048, -86.63186076199969)",1,Age (years),65 or older
+16,2016,AK,Alaska,31.3,31.3,Percent of adults aged 18 years and older who have an overweight classification,177.0,,18 - 24,"(64.84507995700051, -147.72205903599973)",2,Age (years),18 - 24
+17,2016,AK,Alaska,33.1,33.1,Percent of adults aged 18 years and older who have an overweight classification,356.0,,35 - 44,"(64.84507995700051, -147.72205903599973)",2,Age (years),35 - 44
+18,2016,AK,Alaska,35.8,35.8,Percent of adults aged 18 years and older who have an overweight classification,483.0,,45 - 54,"(64.84507995700051, -147.72205903599973)",2,Age (years),45 - 54
+19,2016,AK,Alaska,42.2,42.2,Percent of adults aged 18 years and older who have an overweight classification,706.0,,55 - 64,"(64.84507995700051, -147.72205903599973)",2,Age (years),55 - 64
+20,2016,AK,Alaska,38.1,38.1,Percent of adults aged 18 years and older who have an overweight classification,738.0,,65 or older,"(64.84507995700051, -147.72205903599973)",2,Age (years),65 or older
+21,2016,AZ,Arizona,19.6,19.6,Percent of adults aged 18 years and older who have an overweight classification,344.0,,18 - 24,"(34.865970280000454, -111.76381127699972)",4,Age (years),18 - 24
+22,2016,AZ,Arizona,35.7,35.7,Percent of adults aged 18 years and older who have an overweight classification,892.0,,35 - 44,"(34.865970280000454, -111.76381127699972)",4,Age (years),35 - 44
+23,2016,AR,Arkansas,35.1,35.1,Percent of adults aged 18 years and older who have an overweight classification,1036.0,,55 - 64,"(34.74865012400045, -92.27449074299966)",5,Age (years),55 - 64
+24,2016,AR,Arkansas,37.8,37.8,Percent of adults aged 18 years and older who have an overweight classification,2397.0,,65 or older,"(34.74865012400045, -92.27449074299966)",5,Age (years),65 or older
+25,2016,CA,California,24.5,24.5,Percent of adults aged 18 years and older who have an overweight classification,997.0,,18 - 24,"(37.63864012300047, -120.99999953799971)",6,Age (years),18 - 24
+26,2016,CA,California,37.9,37.9,Percent of adults aged 18 years and older who have an overweight classification,1505.0,,35 - 44,"(37.63864012300047, -120.99999953799971)",6,Age (years),35 - 44
+27,2016,CA,California,37.4,37.4,Percent of adults aged 18 years and older who have an overweight classification,1754.0,,45 - 54,"(37.63864012300047, -120.99999953799971)",6,Age (years),45 - 54
+28,2016,CA,California,39.4,39.4,Percent of adults aged 18 years and older who have an overweight classification,1930.0,,55 - 64,"(37.63864012300047, -120.99999953799971)",6,Age (years),55 - 64
+29,2016,CA,California,39.2,39.2,Percent of adults aged 18 years and older who have an overweight classification,2510.0,,65 or older,"(37.63864012300047, -120.99999953799971)",6,Age (years),65 or older
+30,2016,CO,Colorado,25.2,25.2,Percent of adults aged 18 years and older who have an overweight classification,658.0,,18 - 24,"(38.843840757000464, -106.13361092099967)",8,Age (years),18 - 24
+31,2016,CO,Colorado,36.6,36.6,Percent of adults aged 18 years and older who have an overweight classification,1615.0,,35 - 44,"(38.843840757000464, -106.13361092099967)",8,Age (years),35 - 44
+32,2016,CO,Colorado,39.2,39.2,Percent of adults aged 18 years and older who have an overweight classification,2191.0,,45 - 54,"(38.843840757000464, -106.13361092099967)",8,Age (years),45 - 54
+33,2016,CO,Colorado,38.9,38.9,Percent of adults aged 18 years and older who have an overweight classification,3151.0,,55 - 64,"(38.843840757000464, -106.13361092099967)",8,Age (years),55 - 64
+34,2016,CO,Colorado,40.2,40.2,Percent of adults aged 18 years and older who have an overweight classification,4724.0,,65 or older,"(38.843840757000464, -106.13361092099967)",8,Age (years),65 or older
+35,2016,CT,Connecticut,22.6,22.6,Percent of adults aged 18 years and older who have an overweight classification,398.0,,18 - 24,"(41.56266102000046, -72.64984095199964)",9,Age (years),18 - 24
+36,2016,CT,Connecticut,35.8,35.8,Percent of adults aged 18 years and older who have an overweight classification,963.0,,35 - 44,"(41.56266102000046, -72.64984095199964)",9,Age (years),35 - 44
+37,2016,CT,Connecticut,37.6,37.6,Percent of adults aged 18 years and older who have an overweight classification,1718.0,,45 - 54,"(41.56266102000046, -72.64984095199964)",9,Age (years),45 - 54
+38,2016,CT,Connecticut,38.7,38.7,Percent of adults aged 18 years and older who have an overweight classification,2379.0,,55 - 64,"(41.56266102000046, -72.64984095199964)",9,Age (years),55 - 64
+39,2016,CT,Connecticut,41.5,41.5,Percent of adults aged 18 years and older who have an overweight classification,3831.0,,65 or older,"(41.56266102000046, -72.64984095199964)",9,Age (years),65 or older
+40,2016,DE,Delaware,24.3,24.3,Percent of adults aged 18 years and older who have an overweight classification,235.0,,18 - 24,"(39.008830667000495, -75.57774116799965)",10,Age (years),18 - 24
+41,2016,DE,Delaware,37.1,37.1,Percent of adults aged 18 years and older who have an overweight classification,388.0,,35 - 44,"(39.008830667000495, -75.57774116799965)",10,Age (years),35 - 44
+42,2016,DE,Delaware,40.2,40.2,Percent of adults aged 18 years and older who have an overweight classification,602.0,,45 - 54,"(39.008830667000495, -75.57774116799965)",10,Age (years),45 - 54
+43,2016,DE,Delaware,37.2,37.2,Percent of adults aged 18 years and older who have an overweight classification,812.0,,55 - 64,"(39.008830667000495, -75.57774116799965)",10,Age (years),55 - 64
+44,2016,DE,Delaware,41.4,41.4,Percent of adults aged 18 years and older who have an overweight classification,1281.0,,65 or older,"(39.008830667000495, -75.57774116799965)",10,Age (years),65 or older
+45,2016,DC,District of Columbia,21.9,21.9,Percent of adults aged 18 years and older who have an overweight classification,163.0,,18 - 24,"(38.89037138500049, -77.03196112699965)",11,Age (years),18 - 24
+46,2016,DC,District of Columbia,33.3,33.3,Percent of adults aged 18 years and older who have an overweight classification,502.0,,35 - 44,"(38.89037138500049, -77.03196112699965)",11,Age (years),35 - 44
+47,2016,DC,District of Columbia,34.0,34.0,Percent of adults aged 18 years and older who have an overweight classification,621.0,,45 - 54,"(38.89037138500049, -77.03196112699965)",11,Age (years),45 - 54
+48,2016,DC,District of Columbia,36.9,36.9,Percent of adults aged 18 years and older who have an overweight classification,760.0,,55 - 64,"(38.89037138500049, -77.03196112699965)",11,Age (years),55 - 64
+49,2016,DC,District of Columbia,33.3,33.3,Percent of adults aged 18 years and older who have an overweight classification,959.0,,65 or older,"(38.89037138500049, -77.03196112699965)",11,Age (years),65 or older
+50,2016,FL,Florida,25.0,25.0,Percent of adults aged 18 years and older who have an overweight classification,1661.0,,18 - 24,"(28.932040377000476, -81.92896053899966)",12,Age (years),18 - 24
+51,2016,FL,Florida,37.4,37.4,Percent of adults aged 18 years and older who have an overweight classification,3299.0,,35 - 44,"(28.932040377000476, -81.92896053899966)",12,Age (years),35 - 44
+52,2016,FL,Florida,38.1,38.1,Percent of adults aged 18 years and older who have an overweight classification,4853.0,,45 - 54,"(28.932040377000476, -81.92896053899966)",12,Age (years),45 - 54
+53,2016,FL,Florida,36.3,36.3,Percent of adults aged 18 years and older who have an overweight classification,6706.0,,55 - 64,"(28.932040377000476, -81.92896053899966)",12,Age (years),55 - 64
+54,2016,FL,Florida,39.7,39.7,Percent of adults aged 18 years and older who have an overweight classification,13657.0,,65 or older,"(28.932040377000476, -81.92896053899966)",12,Age (years),65 or older
+55,2016,GA,Georgia,21.7,21.7,Percent of adults aged 18 years and older who have an overweight classification,286.0,,18 - 24,"(32.83968109300048, -83.62758034599966)",13,Age (years),18 - 24
+56,2016,GA,Georgia,34.7,34.7,Percent of adults aged 18 years and older who have an overweight classification,521.0,,35 - 44,"(32.83968109300048, -83.62758034599966)",13,Age (years),35 - 44
+57,2016,GA,Georgia,39.4,39.4,Percent of adults aged 18 years and older who have an overweight classification,779.0,,45 - 54,"(32.83968109300048, -83.62758034599966)",13,Age (years),45 - 54
+58,2016,GA,Georgia,37.1,37.1,Percent of adults aged 18 years and older who have an overweight classification,972.0,,55 - 64,"(32.83968109300048, -83.62758034599966)",13,Age (years),55 - 64
+59,2016,GA,Georgia,36.4,36.4,Percent of adults aged 18 years and older who have an overweight classification,1849.0,,65 or older,"(32.83968109300048, -83.62758034599966)",13,Age (years),65 or older
+60,2016,HI,Hawaii,34.0,34.0,Percent of adults aged 18 years and older who have an overweight classification,459.0,,18 - 24,"(21.304850435000446, -157.85774940299973)",15,Age (years),18 - 24
+61,2016,HI,Hawaii,33.7,33.7,Percent of adults aged 18 years and older who have an overweight classification,884.0,,35 - 44,"(21.304850435000446, -157.85774940299973)",15,Age (years),35 - 44
+62,2016,HI,Hawaii,34.1,34.1,Percent of adults aged 18 years and older who have an overweight classification,1151.0,,45 - 54,"(21.304850435000446, -157.85774940299973)",15,Age (years),45 - 54
+63,2016,HI,Hawaii,33.7,33.7,Percent of adults aged 18 years and older who have an overweight classification,1755.0,,55 - 64,"(21.304850435000446, -157.85774940299973)",15,Age (years),55 - 64
+64,2016,HI,Hawaii,35.3,35.3,Percent of adults aged 18 years and older who have an overweight classification,2635.0,,65 or older,"(21.304850435000446, -157.85774940299973)",15,Age (years),65 or older
+65,2016,ID,Idaho,27.2,27.2,Percent of adults aged 18 years and older who have an overweight classification,237.0,,18 - 24,"(43.682630005000476, -114.3637300419997)",16,Age (years),18 - 24
+66,2016,ID,Idaho,39.9,39.9,Percent of adults aged 18 years and older who have an overweight classification,538.0,,35 - 44,"(43.682630005000476, -114.3637300419997)",16,Age (years),35 - 44
+67,2016,ID,Idaho,36.1,36.1,Percent of adults aged 18 years and older who have an overweight classification,720.0,,45 - 54,"(43.682630005000476, -114.3637300419997)",16,Age (years),45 - 54
+68,2016,ID,Idaho,38.4,38.4,Percent of adults aged 18 years and older who have an overweight classification,1009.0,,55 - 64,"(43.682630005000476, -114.3637300419997)",16,Age (years),55 - 64
+69,2016,ID,Idaho,40.6,40.6,Percent of adults aged 18 years and older who have an overweight classification,1932.0,,65 or older,"(43.682630005000476, -114.3637300419997)",16,Age (years),65 or older
+70,2016,IL,Illinois,26.0,26.0,Percent of adults aged 18 years and older who have an overweight classification,342.0,,18 - 24,"(40.48501028300046, -88.99771017799969)",17,Age (years),18 - 24
+71,2016,IL,Illinois,30.7,30.7,Percent of adults aged 18 years and older who have an overweight classification,565.0,,35 - 44,"(40.48501028300046, -88.99771017799969)",17,Age (years),35 - 44
+72,2016,IL,Illinois,35.2,35.2,Percent of adults aged 18 years and older who have an overweight classification,691.0,,45 - 54,"(40.48501028300046, -88.99771017799969)",17,Age (years),45 - 54
+73,2016,IL,Illinois,38.8,38.8,Percent of adults aged 18 years and older who have an overweight classification,923.0,,55 - 64,"(40.48501028300046, -88.99771017799969)",17,Age (years),55 - 64
+74,2016,IL,Illinois,37.0,37.0,Percent of adults aged 18 years and older who have an overweight classification,1492.0,,65 or older,"(40.48501028300046, -88.99771017799969)",17,Age (years),65 or older
+75,2016,IN,Indiana,25.1,25.1,Percent of adults aged 18 years and older who have an overweight classification,425.0,,18 - 24,"(39.766910452000445, -86.14996019399968)",18,Age (years),18 - 24
+76,2016,IN,Indiana,36.3,36.3,Percent of adults aged 18 years and older who have an overweight classification,1022.0,,35 - 44,"(39.766910452000445, -86.14996019399968)",18,Age (years),35 - 44
+77,2016,IN,Indiana,33.5,33.5,Percent of adults aged 18 years and older who have an overweight classification,1550.0,,45 - 54,"(39.766910452000445, -86.14996019399968)",18,Age (years),45 - 54
+78,2016,IN,Indiana,37.6,37.6,Percent of adults aged 18 years and older who have an overweight classification,2366.0,,55 - 64,"(39.766910452000445, -86.14996019399968)",18,Age (years),55 - 64
+79,2016,IN,Indiana,39.7,39.7,Percent of adults aged 18 years and older who have an overweight classification,4223.0,,65 or older,"(39.766910452000445, -86.14996019399968)",18,Age (years),65 or older
+80,2016,IA,Iowa,26.4,26.4,Percent of adults aged 18 years and older who have an overweight classification,364.0,,18 - 24,"(42.46940091300047, -93.81649055599968)",19,Age (years),18 - 24
+81,2016,IA,Iowa,38.0,38.0,Percent of adults aged 18 years and older who have an overweight classification,689.0,,35 - 44,"(42.46940091300047, -93.81649055599968)",19,Age (years),35 - 44
+82,2016,IA,Iowa,39.5,39.5,Percent of adults aged 18 years and older who have an overweight classification,964.0,,45 - 54,"(42.46940091300047, -93.81649055599968)",19,Age (years),45 - 54
+83,2016,IA,Iowa,38.1,38.1,Percent of adults aged 18 years and older who have an overweight classification,1483.0,,55 - 64,"(42.46940091300047, -93.81649055599968)",19,Age (years),55 - 64
+84,2016,IA,Iowa,40.1,40.1,Percent of adults aged 18 years and older who have an overweight classification,2541.0,,65 or older,"(42.46940091300047, -93.81649055599968)",19,Age (years),65 or older
+85,2016,KS,Kansas,28.5,28.5,Percent of adults aged 18 years and older who have an overweight classification,633.0,,18 - 24,"(38.34774030000045, -98.20078122699965)",20,Age (years),18 - 24
+86,2016,KS,Kansas,34.5,34.5,Percent of adults aged 18 years and older who have an overweight classification,1224.0,,35 - 44,"(38.34774030000045, -98.20078122699965)",20,Age (years),35 - 44
+87,2016,KS,Kansas,38.5,38.5,Percent of adults aged 18 years and older who have an overweight classification,1683.0,,45 - 54,"(38.34774030000045, -98.20078122699965)",20,Age (years),45 - 54
+88,2016,KS,Kansas,35.4,35.4,Percent of adults aged 18 years and older who have an overweight classification,2372.0,,55 - 64,"(38.34774030000045, -98.20078122699965)",20,Age (years),55 - 64
+89,2016,KS,Kansas,39.5,39.5,Percent of adults aged 18 years and older who have an overweight classification,3893.0,,65 or older,"(38.34774030000045, -98.20078122699965)",20,Age (years),65 or older
+90,2016,KY,Kentucky,30.8,30.8,Percent of adults aged 18 years and older who have an overweight classification,639.0,,18 - 24,"(37.645970271000465, -84.77497104799966)",21,Age (years),18 - 24
+91,2016,KY,Kentucky,31.2,31.2,Percent of adults aged 18 years and older who have an overweight classification,1075.0,,35 - 44,"(37.645970271000465, -84.77497104799966)",21,Age (years),35 - 44
+92,2016,KY,Kentucky,37.0,37.0,Percent of adults aged 18 years and older who have an overweight classification,1619.0,,45 - 54,"(37.645970271000465, -84.77497104799966)",21,Age (years),45 - 54
+93,2016,KY,Kentucky,34.0,34.0,Percent of adults aged 18 years and older who have an overweight classification,2207.0,,55 - 64,"(37.645970271000465, -84.77497104799966)",21,Age (years),55 - 64
+94,2016,KY,Kentucky,41.6,41.6,Percent of adults aged 18 years and older who have an overweight classification,3125.0,,65 or older,"(37.645970271000465, -84.77497104799966)",21,Age (years),65 or older
+95,2016,LA,Louisiana,25.3,25.3,Percent of adults aged 18 years and older who have an overweight classification,197.0,,18 - 24,"(31.31266064400046, -92.44568007099969)",22,Age (years),18 - 24
+96,2016,LA,Louisiana,30.0,30.0,Percent of adults aged 18 years and older who have an overweight classification,485.0,,35 - 44,"(31.31266064400046, -92.44568007099969)",22,Age (years),35 - 44
+97,2016,LA,Louisiana,34.4,34.4,Percent of adults aged 18 years and older who have an overweight classification,713.0,,45 - 54,"(31.31266064400046, -92.44568007099969)",22,Age (years),45 - 54
+98,2016,LA,Louisiana,36.9,36.9,Percent of adults aged 18 years and older who have an overweight classification,1112.0,,55 - 64,"(31.31266064400046, -92.44568007099969)",22,Age (years),55 - 64
+99,2016,LA,Louisiana,34.8,34.8,Percent of adults aged 18 years and older who have an overweight classification,1951.0,,65 or older,"(31.31266064400046, -92.44568007099969)",22,Age (years),65 or older
+100,2016,ME,Maine,28.2,28.2,Percent of adults aged 18 years and older who have an overweight classification,360.0,,18 - 24,"(45.254228894000505, -68.98503133599962)",23,Age (years),18 - 24
+101,2016,ME,Maine,36.7,36.7,Percent of adults aged 18 years and older who have an overweight classification,911.0,,35 - 44,"(45.254228894000505, -68.98503133599962)",23,Age (years),35 - 44
+102,2016,ME,Maine,35.1,35.1,Percent of adults aged 18 years and older who have an overweight classification,1537.0,,45 - 54,"(45.254228894000505, -68.98503133599962)",23,Age (years),45 - 54
+103,2016,ME,Maine,37.1,37.1,Percent of adults aged 18 years and older who have an overweight classification,2310.0,,55 - 64,"(45.254228894000505, -68.98503133599962)",23,Age (years),55 - 64
+104,2016,ME,Maine,36.9,36.9,Percent of adults aged 18 years and older who have an overweight classification,3678.0,,65 or older,"(45.254228894000505, -68.98503133599962)",23,Age (years),65 or older
+105,2016,MD,Maryland,38.6,38.6,Percent of adults aged 18 years and older who have an overweight classification,3867.0,,55 - 64,"(39.29058096400047, -76.60926011099963)",24,Age (years),55 - 64
+106,2016,MD,Maryland,22.0,22.0,Percent of adults aged 18 years and older who have an overweight classification,666.0,,18 - 24,"(39.29058096400047, -76.60926011099963)",24,Age (years),18 - 24
+107,2016,MD,Maryland,34.6,34.6,Percent of adults aged 18 years and older who have an overweight classification,1776.0,,35 - 44,"(39.29058096400047, -76.60926011099963)",24,Age (years),35 - 44
+108,2016,MD,Maryland,36.4,36.4,Percent of adults aged 18 years and older who have an overweight classification,2871.0,,45 - 54,"(39.29058096400047, -76.60926011099963)",24,Age (years),45 - 54
+109,2016,MD,Maryland,40.0,40.0,Percent of adults aged 18 years and older who have an overweight classification,6221.0,,65 or older,"(39.29058096400047, -76.60926011099963)",24,Age (years),65 or older
+110,2016,MA,Massachusetts,26.1,26.1,Percent of adults aged 18 years and older who have an overweight classification,499.0,,18 - 24,"(42.27687047000046, -72.08269067499964)",25,Age (years),18 - 24
+111,2016,MA,Massachusetts,39.9,39.9,Percent of adults aged 18 years and older who have an overweight classification,852.0,,35 - 44,"(42.27687047000046, -72.08269067499964)",25,Age (years),35 - 44
+112,2016,MA,Massachusetts,40.3,40.3,Percent of adults aged 18 years and older who have an overweight classification,1244.0,,45 - 54,"(42.27687047000046, -72.08269067499964)",25,Age (years),45 - 54
+113,2016,MA,Massachusetts,40.3,40.3,Percent of adults aged 18 years and older who have an overweight classification,1636.0,,55 - 64,"(42.27687047000046, -72.08269067499964)",25,Age (years),55 - 64
+114,2016,MA,Massachusetts,39.9,39.9,Percent of adults aged 18 years and older who have an overweight classification,2408.0,,65 or older,"(42.27687047000046, -72.08269067499964)",25,Age (years),65 or older
+115,2016,MI,Michigan,26.2,26.2,Percent of adults aged 18 years and older who have an overweight classification,783.0,,18 - 24,"(44.6613195430005, -84.71439026999968)",26,Age (years),18 - 24
+116,2016,MI,Michigan,33.8,33.8,Percent of adults aged 18 years and older who have an overweight classification,1260.0,,35 - 44,"(44.6613195430005, -84.71439026999968)",26,Age (years),35 - 44
+117,2016,MI,Michigan,38.6,38.6,Percent of adults aged 18 years and older who have an overweight classification,1812.0,,45 - 54,"(44.6613195430005, -84.71439026999968)",26,Age (years),45 - 54
+118,2016,MI,Michigan,39.1,39.1,Percent of adults aged 18 years and older who have an overweight classification,2445.0,,55 - 64,"(44.6613195430005, -84.71439026999968)",26,Age (years),55 - 64
+119,2016,MI,Michigan,38.2,38.2,Percent of adults aged 18 years and older who have an overweight classification,3711.0,,65 or older,"(44.6613195430005, -84.71439026999968)",26,Age (years),65 or older
+120,2016,MN,Minnesota,25.4,25.4,Percent of adults aged 18 years and older who have an overweight classification,1056.0,,18 - 24,"(46.35564873600049, -94.79420050299967)",27,Age (years),18 - 24
+121,2016,MN,Minnesota,38.8,38.8,Percent of adults aged 18 years and older who have an overweight classification,2021.0,,35 - 44,"(46.35564873600049, -94.79420050299967)",27,Age (years),35 - 44
+122,2016,MN,Minnesota,37.9,37.9,Percent of adults aged 18 years and older who have an overweight classification,2579.0,,45 - 54,"(46.35564873600049, -94.79420050299967)",27,Age (years),45 - 54
+123,2016,MN,Minnesota,39.5,39.5,Percent of adults aged 18 years and older who have an overweight classification,3375.0,,55 - 64,"(46.35564873600049, -94.79420050299967)",27,Age (years),55 - 64
+124,2016,MN,Minnesota,40.8,40.8,Percent of adults aged 18 years and older who have an overweight classification,4580.0,,65 or older,"(46.35564873600049, -94.79420050299967)",27,Age (years),65 or older
+125,2016,MS,Mississippi,29.9,29.9,Percent of adults aged 18 years and older who have an overweight classification,240.0,,18 - 24,"(32.745510099000455, -89.53803082499968)",28,Age (years),18 - 24
+126,2016,MS,Mississippi,29.2,29.2,Percent of adults aged 18 years and older who have an overweight classification,583.0,,35 - 44,"(32.745510099000455, -89.53803082499968)",28,Age (years),35 - 44
+127,2016,MS,Mississippi,35.2,35.2,Percent of adults aged 18 years and older who have an overweight classification,759.0,,45 - 54,"(32.745510099000455, -89.53803082499968)",28,Age (years),45 - 54
+128,2016,MS,Mississippi,35.7,35.7,Percent of adults aged 18 years and older who have an overweight classification,1068.0,,55 - 64,"(32.745510099000455, -89.53803082499968)",28,Age (years),55 - 64
+129,2016,MS,Mississippi,36.7,36.7,Percent of adults aged 18 years and older who have an overweight classification,1658.0,,65 or older,"(32.745510099000455, -89.53803082499968)",28,Age (years),65 or older
+130,2016,MO,Missouri,33.7,33.7,Percent of adults aged 18 years and older who have an overweight classification,367.0,,18 - 24,"(38.635790776000476, -92.56630005299968)",29,Age (years),18 - 24
+131,2016,MO,Missouri,35.0,35.0,Percent of adults aged 18 years and older who have an overweight classification,641.0,,35 - 44,"(38.635790776000476, -92.56630005299968)",29,Age (years),35 - 44
+132,2016,MO,Missouri,37.6,37.6,Percent of adults aged 18 years and older who have an overweight classification,960.0,,45 - 54,"(38.635790776000476, -92.56630005299968)",29,Age (years),45 - 54
+133,2016,MO,Missouri,34.4,34.4,Percent of adults aged 18 years and older who have an overweight classification,1377.0,,55 - 64,"(38.635790776000476, -92.56630005299968)",29,Age (years),55 - 64
+134,2016,MO,Missouri,37.5,37.5,Percent of adults aged 18 years and older who have an overweight classification,2707.0,,65 or older,"(38.635790776000476, -92.56630005299968)",29,Age (years),65 or older
+135,2016,MT,Montana,29.0,29.0,Percent of adults aged 18 years and older who have an overweight classification,262.0,,18 - 24,"(47.06652897200047, -109.42442064499971)",30,Age (years),18 - 24
+136,2016,MT,Montana,37.9,37.9,Percent of adults aged 18 years and older who have an overweight classification,604.0,,35 - 44,"(47.06652897200047, -109.42442064499971)",30,Age (years),35 - 44
+137,2016,MT,Montana,39.9,39.9,Percent of adults aged 18 years and older who have an overweight classification,699.0,,45 - 54,"(47.06652897200047, -109.42442064499971)",30,Age (years),45 - 54
+138,2016,MT,Montana,37.8,37.8,Percent of adults aged 18 years and older who have an overweight classification,1270.0,,55 - 64,"(47.06652897200047, -109.42442064499971)",30,Age (years),55 - 64
+139,2016,MT,Montana,42.5,42.5,Percent of adults aged 18 years and older who have an overweight classification,2148.0,,65 or older,"(47.06652897200047, -109.42442064499971)",30,Age (years),65 or older
+140,2016,NE,Nebraska,28.9,28.9,Percent of adults aged 18 years and older who have an overweight classification,847.0,,18 - 24,"(41.6410409880005, -99.36572062299967)",31,Age (years),18 - 24
+141,2016,NE,Nebraska,38.1,38.1,Percent of adults aged 18 years and older who have an overweight classification,1650.0,,35 - 44,"(41.6410409880005, -99.36572062299967)",31,Age (years),35 - 44
+142,2016,NE,Nebraska,35.9,35.9,Percent of adults aged 18 years and older who have an overweight classification,2081.0,,45 - 54,"(41.6410409880005, -99.36572062299967)",31,Age (years),45 - 54
+143,2016,NE,Nebraska,39.0,39.0,Percent of adults aged 18 years and older who have an overweight classification,3010.0,,55 - 64,"(41.6410409880005, -99.36572062299967)",31,Age (years),55 - 64
+144,2016,NE,Nebraska,40.3,40.3,Percent of adults aged 18 years and older who have an overweight classification,5037.0,,65 or older,"(41.6410409880005, -99.36572062299967)",31,Age (years),65 or older
+145,2016,NV,Nevada,24.7,24.7,Percent of adults aged 18 years and older who have an overweight classification,266.0,,18 - 24,"(39.493240390000494, -117.07184056399967)",32,Age (years),18 - 24
+146,2016,NV,Nevada,39.2,39.2,Percent of adults aged 18 years and older who have an overweight classification,483.0,,35 - 44,"(39.493240390000494, -117.07184056399967)",32,Age (years),35 - 44
+147,2016,NV,Nevada,41.3,41.3,Percent of adults aged 18 years and older who have an overweight classification,630.0,,45 - 54,"(39.493240390000494, -117.07184056399967)",32,Age (years),45 - 54
+148,2016,NV,Nevada,34.9,34.9,Percent of adults aged 18 years and older who have an overweight classification,810.0,,55 - 64,"(39.493240390000494, -117.07184056399967)",32,Age (years),55 - 64
+149,2016,NV,Nevada,37.8,37.8,Percent of adults aged 18 years and older who have an overweight classification,1355.0,,65 or older,"(39.493240390000494, -117.07184056399967)",32,Age (years),65 or older
+150,2016,NH,New Hampshire,26.4,26.4,Percent of adults aged 18 years and older who have an overweight classification,228.0,,18 - 24,"(43.65595011300047, -71.50036091999965)",33,Age (years),18 - 24
+151,2016,NH,New Hampshire,39.3,39.3,Percent of adults aged 18 years and older who have an overweight classification,539.0,,35 - 44,"(43.65595011300047, -71.50036091999965)",33,Age (years),35 - 44
+152,2016,NH,New Hampshire,38.7,38.7,Percent of adults aged 18 years and older who have an overweight classification,1038.0,,45 - 54,"(43.65595011300047, -71.50036091999965)",33,Age (years),45 - 54
+153,2016,NH,New Hampshire,40.9,40.9,Percent of adults aged 18 years and older who have an overweight classification,1404.0,,55 - 64,"(43.65595011300047, -71.50036091999965)",33,Age (years),55 - 64
+154,2016,NH,New Hampshire,41.3,41.3,Percent of adults aged 18 years and older who have an overweight classification,2268.0,,65 or older,"(43.65595011300047, -71.50036091999965)",33,Age (years),65 or older
+155,2016,NJ,New Jersey,26.2,26.2,Percent of adults aged 18 years and older who have an overweight classification,333.0,,18 - 24,"(40.13057004800049, -74.27369128799967)",34,Age (years),18 - 24
+156,2016,NJ,New Jersey,38.0,38.0,Percent of adults aged 18 years and older who have an overweight classification,791.0,,35 - 44,"(40.13057004800049, -74.27369128799967)",34,Age (years),35 - 44
+157,2016,NJ,New Jersey,41.1,41.1,Percent of adults aged 18 years and older who have an overweight classification,1174.0,,45 - 54,"(40.13057004800049, -74.27369128799967)",34,Age (years),45 - 54
+158,2016,NJ,New Jersey,37.7,37.7,Percent of adults aged 18 years and older who have an overweight classification,1614.0,,55 - 64,"(40.13057004800049, -74.27369128799967)",34,Age (years),55 - 64
+159,2016,NJ,New Jersey,38.6,38.6,Percent of adults aged 18 years and older who have an overweight classification,2278.0,,65 or older,"(40.13057004800049, -74.27369128799967)",34,Age (years),65 or older
+160,2016,NM,New Mexico,23.7,23.7,Percent of adults aged 18 years and older who have an overweight classification,238.0,,18 - 24,"(34.52088095200048, -106.24058098499967)",35,Age (years),18 - 24
+161,2016,NM,New Mexico,38.3,38.3,Percent of adults aged 18 years and older who have an overweight classification,622.0,,35 - 44,"(34.52088095200048, -106.24058098499967)",35,Age (years),35 - 44
+162,2016,NM,New Mexico,39.7,39.7,Percent of adults aged 18 years and older who have an overweight classification,852.0,,45 - 54,"(34.52088095200048, -106.24058098499967)",35,Age (years),45 - 54
+163,2016,NM,New Mexico,40.9,40.9,Percent of adults aged 18 years and older who have an overweight classification,1301.0,,55 - 64,"(34.52088095200048, -106.24058098499967)",35,Age (years),55 - 64
+164,2016,NM,New Mexico,38.0,38.0,Percent of adults aged 18 years and older who have an overweight classification,2001.0,,65 or older,"(34.52088095200048, -106.24058098499967)",35,Age (years),65 or older
+165,2016,NY,New York,24.0,24.0,Percent of adults aged 18 years and older who have an overweight classification,1659.0,,18 - 24,"(42.82700103200045, -75.54397042699964)",36,Age (years),18 - 24
+166,2016,NY,New York,37.7,37.7,Percent of adults aged 18 years and older who have an overweight classification,3377.0,,35 - 44,"(42.82700103200045, -75.54397042699964)",36,Age (years),35 - 44
+167,2016,NY,New York,39.4,39.4,Percent of adults aged 18 years and older who have an overweight classification,5183.0,,45 - 54,"(42.82700103200045, -75.54397042699964)",36,Age (years),45 - 54
+168,2016,NY,New York,38.0,38.0,Percent of adults aged 18 years and older who have an overweight classification,7175.0,,55 - 64,"(42.82700103200045, -75.54397042699964)",36,Age (years),55 - 64
+169,2016,NY,New York,38.8,38.8,Percent of adults aged 18 years and older who have an overweight classification,10612.0,,65 or older,"(42.82700103200045, -75.54397042699964)",36,Age (years),65 or older
+170,2016,NC,North Carolina,26.0,26.0,Percent of adults aged 18 years and older who have an overweight classification,418.0,,18 - 24,"(35.466220975000454, -79.15925046299964)",37,Age (years),18 - 24
+171,2016,NC,North Carolina,34.3,34.3,Percent of adults aged 18 years and older who have an overweight classification,821.0,,35 - 44,"(35.466220975000454, -79.15925046299964)",37,Age (years),35 - 44
+172,2016,NC,North Carolina,34.6,34.6,Percent of adults aged 18 years and older who have an overweight classification,984.0,,45 - 54,"(35.466220975000454, -79.15925046299964)",37,Age (years),45 - 54
+173,2016,NC,North Carolina,36.5,36.5,Percent of adults aged 18 years and older who have an overweight classification,1188.0,,55 - 64,"(35.466220975000454, -79.15925046299964)",37,Age (years),55 - 64
+174,2016,NC,North Carolina,39.2,39.2,Percent of adults aged 18 years and older who have an overweight classification,1793.0,,65 or older,"(35.466220975000454, -79.15925046299964)",37,Age (years),65 or older
+175,2016,ND,North Dakota,24.5,24.5,Percent of adults aged 18 years and older who have an overweight classification,250.0,,18 - 24,"(47.47531977900047, -100.11842104899966)",38,Age (years),18 - 24
+176,2016,ND,North Dakota,37.1,37.1,Percent of adults aged 18 years and older who have an overweight classification,549.0,,35 - 44,"(47.47531977900047, -100.11842104899966)",38,Age (years),35 - 44
+177,2016,ND,North Dakota,35.1,35.1,Percent of adults aged 18 years and older who have an overweight classification,758.0,,45 - 54,"(47.47531977900047, -100.11842104899966)",38,Age (years),45 - 54
+178,2016,ND,North Dakota,40.1,40.1,Percent of adults aged 18 years and older who have an overweight classification,1271.0,,55 - 64,"(47.47531977900047, -100.11842104899966)",38,Age (years),55 - 64
+179,2016,ND,North Dakota,41.6,41.6,Percent of adults aged 18 years and older who have an overweight classification,1971.0,,65 or older,"(47.47531977900047, -100.11842104899966)",38,Age (years),65 or older
+180,2016,OH,Ohio,26.9,26.9,Percent of adults aged 18 years and older who have an overweight classification,510.0,,18 - 24,"(40.06021014100048, -82.40426005599966)",39,Age (years),18 - 24
+181,2016,OH,Ohio,34.8,34.8,Percent of adults aged 18 years and older who have an overweight classification,1173.0,,35 - 44,"(40.06021014100048, -82.40426005599966)",39,Age (years),35 - 44
+182,2016,OH,Ohio,35.7,35.7,Percent of adults aged 18 years and older who have an overweight classification,1730.0,,45 - 54,"(40.06021014100048, -82.40426005599966)",39,Age (years),45 - 54
+183,2016,OH,Ohio,35.1,35.1,Percent of adults aged 18 years and older who have an overweight classification,2673.0,,55 - 64,"(40.06021014100048, -82.40426005599966)",39,Age (years),55 - 64
+184,2016,OH,Ohio,38.5,38.5,Percent of adults aged 18 years and older who have an overweight classification,4425.0,,65 or older,"(40.06021014100048, -82.40426005599966)",39,Age (years),65 or older
+185,2016,OK,Oklahoma,28.5,28.5,Percent of adults aged 18 years and older who have an overweight classification,274.0,,18 - 24,"(35.47203135600046, -97.52107021399968)",40,Age (years),18 - 24
+186,2016,OK,Oklahoma,35.5,35.5,Percent of adults aged 18 years and older who have an overweight classification,672.0,,35 - 44,"(35.47203135600046, -97.52107021399968)",40,Age (years),35 - 44
+187,2016,OK,Oklahoma,36.5,36.5,Percent of adults aged 18 years and older who have an overweight classification,913.0,,45 - 54,"(35.47203135600046, -97.52107021399968)",40,Age (years),45 - 54
+188,2016,OK,Oklahoma,37.0,37.0,Percent of adults aged 18 years and older who have an overweight classification,1360.0,,55 - 64,"(35.47203135600046, -97.52107021399968)",40,Age (years),55 - 64
+189,2016,OK,Oklahoma,39.3,39.3,Percent of adults aged 18 years and older who have an overweight classification,2615.0,,65 or older,"(35.47203135600046, -97.52107021399968)",40,Age (years),65 or older
+190,2016,OR,Oregon,19.0,19.0,Percent of adults aged 18 years and older who have an overweight classification,343.0,,18 - 24,"(44.56744942400047, -120.15503132599969)",41,Age (years),18 - 24
+191,2016,OR,Oregon,34.1,34.1,Percent of adults aged 18 years and older who have an overweight classification,656.0,,35 - 44,"(44.56744942400047, -120.15503132599969)",41,Age (years),35 - 44
+192,2016,OR,Oregon,35.5,35.5,Percent of adults aged 18 years and older who have an overweight classification,795.0,,45 - 54,"(44.56744942400047, -120.15503132599969)",41,Age (years),45 - 54
+193,2016,OR,Oregon,36.6,36.6,Percent of adults aged 18 years and older who have an overweight classification,980.0,,55 - 64,"(44.56744942400047, -120.15503132599969)",41,Age (years),55 - 64
+194,2016,OR,Oregon,38.3,38.3,Percent of adults aged 18 years and older who have an overweight classification,1626.0,,65 or older,"(44.56744942400047, -120.15503132599969)",41,Age (years),65 or older
+195,2016,PA,Pennsylvania,27.1,27.1,Percent of adults aged 18 years and older who have an overweight classification,525.0,,18 - 24,"(40.79373015200048, -77.86070029399963)",42,Age (years),18 - 24
+196,2016,PA,Pennsylvania,33.8,33.8,Percent of adults aged 18 years and older who have an overweight classification,780.0,,35 - 44,"(40.79373015200048, -77.86070029399963)",42,Age (years),35 - 44
+197,2016,PA,Pennsylvania,36.6,36.6,Percent of adults aged 18 years and older who have an overweight classification,1092.0,,45 - 54,"(40.79373015200048, -77.86070029399963)",42,Age (years),45 - 54
+198,2016,PA,Pennsylvania,36.6,36.6,Percent of adults aged 18 years and older who have an overweight classification,1402.0,,55 - 64,"(40.79373015200048, -77.86070029399963)",42,Age (years),55 - 64
+199,2016,PA,Pennsylvania,40.5,40.5,Percent of adults aged 18 years and older who have an overweight classification,1778.0,,65 or older,"(40.79373015200048, -77.86070029399963)",42,Age (years),65 or older
+200,2016,RI,Rhode Island,26.0,26.0,Percent of adults aged 18 years and older who have an overweight classification,218.0,,18 - 24,"(41.70828019300046, -71.52247031399963)",44,Age (years),18 - 24
+201,2016,RI,Rhode Island,38.6,38.6,Percent of adults aged 18 years and older who have an overweight classification,528.0,,35 - 44,"(41.70828019300046, -71.52247031399963)",44,Age (years),35 - 44
+202,2016,RI,Rhode Island,39.3,39.3,Percent of adults aged 18 years and older who have an overweight classification,879.0,,45 - 54,"(41.70828019300046, -71.52247031399963)",44,Age (years),45 - 54
+203,2016,RI,Rhode Island,37.4,37.4,Percent of adults aged 18 years and older who have an overweight classification,1239.0,,55 - 64,"(41.70828019300046, -71.52247031399963)",44,Age (years),55 - 64
+204,2016,RI,Rhode Island,43.4,43.4,Percent of adults aged 18 years and older who have an overweight classification,1690.0,,65 or older,"(41.70828019300046, -71.52247031399963)",44,Age (years),65 or older
+205,2016,SC,South Carolina,28.3,28.3,Percent of adults aged 18 years and older who have an overweight classification,484.0,,18 - 24,"(33.998821303000454, -81.04537120699968)",45,Age (years),18 - 24
+206,2016,SC,South Carolina,34.5,34.5,Percent of adults aged 18 years and older who have an overweight classification,1007.0,,35 - 44,"(33.998821303000454, -81.04537120699968)",45,Age (years),35 - 44
+207,2016,SC,South Carolina,34.8,34.8,Percent of adults aged 18 years and older who have an overweight classification,1605.0,,45 - 54,"(33.998821303000454, -81.04537120699968)",45,Age (years),45 - 54
+208,2016,SC,South Carolina,38.1,38.1,Percent of adults aged 18 years and older who have an overweight classification,2289.0,,55 - 64,"(33.998821303000454, -81.04537120699968)",45,Age (years),55 - 64
+209,2016,SC,South Carolina,39.9,39.9,Percent of adults aged 18 years and older who have an overweight classification,4262.0,,65 or older,"(33.998821303000454, -81.04537120699968)",45,Age (years),65 or older
+210,2016,SD,South Dakota,27.5,27.5,Percent of adults aged 18 years and older who have an overweight classification,268.0,,18 - 24,"(44.353130053000484, -100.3735306369997)",46,Age (years),18 - 24
+211,2016,SD,South Dakota,33.9,33.9,Percent of adults aged 18 years and older who have an overweight classification,603.0,,35 - 44,"(44.353130053000484, -100.3735306369997)",46,Age (years),35 - 44
+212,2016,SD,South Dakota,39.4,39.4,Percent of adults aged 18 years and older who have an overweight classification,809.0,,45 - 54,"(44.353130053000484, -100.3735306369997)",46,Age (years),45 - 54
+213,2016,SD,South Dakota,40.1,40.1,Percent of adults aged 18 years and older who have an overweight classification,1215.0,,55 - 64,"(44.353130053000484, -100.3735306369997)",46,Age (years),55 - 64
+214,2016,SD,South Dakota,42.3,42.3,Percent of adults aged 18 years and older who have an overweight classification,1971.0,,65 or older,"(44.353130053000484, -100.3735306369997)",46,Age (years),65 or older
+215,2016,TN,Tennessee,26.3,26.3,Percent of adults aged 18 years and older who have an overweight classification,343.0,,18 - 24,"(35.68094058000048, -85.77449091399967)",47,Age (years),18 - 24
+216,2016,TN,Tennessee,30.9,30.9,Percent of adults aged 18 years and older who have an overweight classification,593.0,,35 - 44,"(35.68094058000048, -85.77449091399967)",47,Age (years),35 - 44
+217,2016,TN,Tennessee,37.6,37.6,Percent of adults aged 18 years and older who have an overweight classification,948.0,,45 - 54,"(35.68094058000048, -85.77449091399967)",47,Age (years),45 - 54
+218,2016,TN,Tennessee,33.3,33.3,Percent of adults aged 18 years and older who have an overweight classification,1242.0,,55 - 64,"(35.68094058000048, -85.77449091399967)",47,Age (years),55 - 64
+219,2016,TN,Tennessee,38.8,38.8,Percent of adults aged 18 years and older who have an overweight classification,1969.0,,65 or older,"(35.68094058000048, -85.77449091399967)",47,Age (years),65 or older
+220,2016,TX,Texas,25.2,25.2,Percent of adults aged 18 years and older who have an overweight classification,518.0,,18 - 24,"(31.827240407000488, -99.42677020599967)",48,Age (years),18 - 24
+221,2016,TX,Texas,36.1,36.1,Percent of adults aged 18 years and older who have an overweight classification,1185.0,,35 - 44,"(31.827240407000488, -99.42677020599967)",48,Age (years),35 - 44
+222,2016,TX,Texas,35.0,35.0,Percent of adults aged 18 years and older who have an overweight classification,1533.0,,45 - 54,"(31.827240407000488, -99.42677020599967)",48,Age (years),45 - 54
+223,2016,TX,Texas,36.7,36.7,Percent of adults aged 18 years and older who have an overweight classification,2126.0,,55 - 64,"(31.827240407000488, -99.42677020599967)",48,Age (years),55 - 64
+224,2016,TX,Texas,38.4,38.4,Percent of adults aged 18 years and older who have an overweight classification,4329.0,,65 or older,"(31.827240407000488, -99.42677020599967)",48,Age (years),65 or older
+225,2016,UT,Utah,28.5,28.5,Percent of adults aged 18 years and older who have an overweight classification,813.0,,18 - 24,"(39.360700171000474, -111.58713063499971)",49,Age (years),18 - 24
+226,2016,UT,Utah,35.1,35.1,Percent of adults aged 18 years and older who have an overweight classification,1681.0,,35 - 44,"(39.360700171000474, -111.58713063499971)",49,Age (years),35 - 44
+227,2016,UT,Utah,36.3,36.3,Percent of adults aged 18 years and older who have an overweight classification,1509.0,,45 - 54,"(39.360700171000474, -111.58713063499971)",49,Age (years),45 - 54
+228,2016,UT,Utah,37.8,37.8,Percent of adults aged 18 years and older who have an overweight classification,1826.0,,55 - 64,"(39.360700171000474, -111.58713063499971)",49,Age (years),55 - 64
+229,2016,UT,Utah,39.3,39.3,Percent of adults aged 18 years and older who have an overweight classification,2947.0,,65 or older,"(39.360700171000474, -111.58713063499971)",49,Age (years),65 or older
+230,2016,VT,Vermont,25.3,25.3,Percent of adults aged 18 years and older who have an overweight classification,266.0,,18 - 24,"(43.62538123900049, -72.51764079099962)",50,Age (years),18 - 24
+231,2016,VT,Vermont,34.2,34.2,Percent of adults aged 18 years and older who have an overweight classification,650.0,,35 - 44,"(43.62538123900049, -72.51764079099962)",50,Age (years),35 - 44
+232,2016,VT,Vermont,34.2,34.2,Percent of adults aged 18 years and older who have an overweight classification,1029.0,,45 - 54,"(43.62538123900049, -72.51764079099962)",50,Age (years),45 - 54
+233,2016,VT,Vermont,37.5,37.5,Percent of adults aged 18 years and older who have an overweight classification,1549.0,,55 - 64,"(43.62538123900049, -72.51764079099962)",50,Age (years),55 - 64
+234,2016,VT,Vermont,40.0,40.0,Percent of adults aged 18 years and older who have an overweight classification,2061.0,,65 or older,"(43.62538123900049, -72.51764079099962)",50,Age (years),65 or older
+235,2016,VA,Virginia,25.8,25.8,Percent of adults aged 18 years and older who have an overweight classification,498.0,,18 - 24,"(37.54268067400045, -78.45789046299967)",51,Age (years),18 - 24
+236,2016,VA,Virginia,40.1,40.1,Percent of adults aged 18 years and older who have an overweight classification,951.0,,35 - 44,"(37.54268067400045, -78.45789046299967)",51,Age (years),35 - 44
+237,2016,VA,Virginia,35.6,35.6,Percent of adults aged 18 years and older who have an overweight classification,1420.0,,45 - 54,"(37.54268067400045, -78.45789046299967)",51,Age (years),45 - 54
+238,2016,VA,Virginia,40.1,40.1,Percent of adults aged 18 years and older who have an overweight classification,1807.0,,55 - 64,"(37.54268067400045, -78.45789046299967)",51,Age (years),55 - 64
+239,2016,VA,Virginia,40.4,40.4,Percent of adults aged 18 years and older who have an overweight classification,2722.0,,65 or older,"(37.54268067400045, -78.45789046299967)",51,Age (years),65 or older
+240,2016,WA,Washington,24.8,24.8,Percent of adults aged 18 years and older who have an overweight classification,699.0,,18 - 24,"(47.52227862900048, -120.47001078999972)",53,Age (years),18 - 24
+241,2016,WA,Washington,35.4,35.4,Percent of adults aged 18 years and older who have an overweight classification,1502.0,,35 - 44,"(47.52227862900048, -120.47001078999972)",53,Age (years),35 - 44
+242,2016,WA,Washington,36.1,36.1,Percent of adults aged 18 years and older who have an overweight classification,1924.0,,45 - 54,"(47.52227862900048, -120.47001078999972)",53,Age (years),45 - 54
+243,2016,WA,Washington,37.8,37.8,Percent of adults aged 18 years and older who have an overweight classification,2775.0,,55 - 64,"(47.52227862900048, -120.47001078999972)",53,Age (years),55 - 64
+244,2016,WA,Washington,38.7,38.7,Percent of adults aged 18 years and older who have an overweight classification,4758.0,,65 or older,"(47.52227862900048, -120.47001078999972)",53,Age (years),65 or older
+245,2016,WV,West Virginia,25.0,25.0,Percent of adults aged 18 years and older who have an overweight classification,333.0,,18 - 24,"(38.66551020200046, -80.71264013499967)",54,Age (years),18 - 24
+246,2016,WV,West Virginia,32.0,32.0,Percent of adults aged 18 years and older who have an overweight classification,845.0,,35 - 44,"(38.66551020200046, -80.71264013499967)",54,Age (years),35 - 44
+247,2016,WV,West Virginia,31.9,31.9,Percent of adults aged 18 years and older who have an overweight classification,1118.0,,45 - 54,"(38.66551020200046, -80.71264013499967)",54,Age (years),45 - 54
+248,2016,WV,West Virginia,34.0,34.0,Percent of adults aged 18 years and older who have an overweight classification,1563.0,,55 - 64,"(38.66551020200046, -80.71264013499967)",54,Age (years),55 - 64
+249,2016,WV,West Virginia,39.6,39.6,Percent of adults aged 18 years and older who have an overweight classification,2072.0,,65 or older,"(38.66551020200046, -80.71264013499967)",54,Age (years),65 or older
+250,2016,WI,Wisconsin,26.5,26.5,Percent of adults aged 18 years and older who have an overweight classification,280.0,,18 - 24,"(44.39319117400049, -89.81637074199966)",55,Age (years),18 - 24
+251,2016,WI,Wisconsin,34.7,34.7,Percent of adults aged 18 years and older who have an overweight classification,523.0,,35 - 44,"(44.39319117400049, -89.81637074199966)",55,Age (years),35 - 44
+252,2016,WI,Wisconsin,38.2,38.2,Percent of adults aged 18 years and older who have an overweight classification,762.0,,45 - 54,"(44.39319117400049, -89.81637074199966)",55,Age (years),45 - 54
+253,2016,WI,Wisconsin,37.1,37.1,Percent of adults aged 18 years and older who have an overweight classification,1129.0,,55 - 64,"(44.39319117400049, -89.81637074199966)",55,Age (years),55 - 64
+254,2016,WI,Wisconsin,38.1,38.1,Percent of adults aged 18 years and older who have an overweight classification,1623.0,,65 or older,"(44.39319117400049, -89.81637074199966)",55,Age (years),65 or older
+255,2016,WY,Wyoming,30.0,30.0,Percent of adults aged 18 years and older who have an overweight classification,141.0,,18 - 24,"(43.23554134300048, -108.10983035299967)",56,Age (years),18 - 24
+256,2016,WY,Wyoming,31.3,31.3,Percent of adults aged 18 years and older who have an overweight classification,433.0,,35 - 44,"(43.23554134300048, -108.10983035299967)",56,Age (years),35 - 44
+257,2016,WY,Wyoming,39.5,39.5,Percent of adults aged 18 years and older who have an overweight classification,546.0,,45 - 54,"(43.23554134300048, -108.10983035299967)",56,Age (years),45 - 54
+258,2016,WY,Wyoming,41.1,41.1,Percent of adults aged 18 years and older who have an overweight classification,1062.0,,55 - 64,"(43.23554134300048, -108.10983035299967)",56,Age (years),55 - 64
+259,2016,WY,Wyoming,39.7,39.7,Percent of adults aged 18 years and older who have an overweight classification,1724.0,,65 or older,"(43.23554134300048, -108.10983035299967)",56,Age (years),65 or older
+260,2016,GU,Guam,21.7,21.7,Percent of adults aged 18 years and older who have an overweight classification,137.0,,18 - 24,"(13.444304, 144.793731)",66,Age (years),18 - 24
+261,2016,GU,Guam,39.3,39.3,Percent of adults aged 18 years and older who have an overweight classification,257.0,,35 - 44,"(13.444304, 144.793731)",66,Age (years),35 - 44
+262,2016,GU,Guam,41.7,41.7,Percent of adults aged 18 years and older who have an overweight classification,312.0,,45 - 54,"(13.444304, 144.793731)",66,Age (years),45 - 54
+263,2016,GU,Guam,33.2,33.2,Percent of adults aged 18 years and older who have an overweight classification,279.0,,55 - 64,"(13.444304, 144.793731)",66,Age (years),55 - 64
+264,2016,GU,Guam,34.5,34.5,Percent of adults aged 18 years and older who have an overweight classification,268.0,,65 or older,"(13.444304, 144.793731)",66,Age (years),65 or older
+265,2016,PR,Puerto Rico,21.5,21.5,Percent of adults aged 18 years and older who have an overweight classification,370.0,,18 - 24,"(18.220833, -66.590149)",72,Age (years),18 - 24
+266,2016,PR,Puerto Rico,39.1,39.1,Percent of adults aged 18 years and older who have an overweight classification,701.0,,35 - 44,"(18.220833, -66.590149)",72,Age (years),35 - 44
+267,2016,PR,Puerto Rico,39.0,39.0,Percent of adults aged 18 years and older who have an overweight classification,888.0,,45 - 54,"(18.220833, -66.590149)",72,Age (years),45 - 54
+268,2016,PR,Puerto Rico,41.6,41.6,Percent of adults aged 18 years and older who have an overweight classification,1054.0,,55 - 64,"(18.220833, -66.590149)",72,Age (years),55 - 64
+269,2016,PR,Puerto Rico,40.2,40.2,Percent of adults aged 18 years and older who have an overweight classification,1898.0,,65 or older,"(18.220833, -66.590149)",72,Age (years),65 or older
+270,2016,VI,Virgin Islands,25.8,25.8,Percent of adults aged 18 years and older who have an overweight classification,50.0,,18 - 24,"(18.335765, -64.896335)",78,Age (years),18 - 24
+271,2016,VI,Virgin Islands,24.2,24.2,Percent of adults aged 18 years and older who have an overweight classification,91.0,,35 - 44,"(18.335765, -64.896335)",78,Age (years),35 - 44
+272,2016,VI,Virgin Islands,31.0,31.0,Percent of adults aged 18 years and older who have an overweight classification,217.0,,45 - 54,"(18.335765, -64.896335)",78,Age (years),45 - 54
+273,2016,VI,Virgin Islands,37.3,37.3,Percent of adults aged 18 years and older who have an overweight classification,306.0,,55 - 64,"(18.335765, -64.896335)",78,Age (years),55 - 64
+274,2016,VI,Virgin Islands,43.2,43.2,Percent of adults aged 18 years and older who have an overweight classification,436.0,,65 or older,"(18.335765, -64.896335)",78,Age (years),65 or older
+275,2016,US,National,17.3,17.3,Percent of adults aged 18 years and older who have obesity,23734.0,,18 - 24,,59,Age (years),18 - 24
+276,2016,US,National,33.1,33.1,Percent of adults aged 18 years and older who have obesity,48951.0,,35 - 44,,59,Age (years),35 - 44
+277,2016,US,National,35.1,35.1,Percent of adults aged 18 years and older who have obesity,68854.0,,45 - 54,,59,Age (years),45 - 54
+278,2016,US,National,34.2,34.2,Percent of adults aged 18 years and older who have obesity,96566.0,,55 - 64,,59,Age (years),55 - 64
+279,2016,US,National,28.0,28.0,Percent of adults aged 18 years and older who have obesity,157668.0,,65 or older,,59,Age (years),65 or older
+280,2016,AL,Alabama,22.6,22.6,Percent of adults aged 18 years and older who have obesity,412.0,,18 - 24,"(32.84057112200048, -86.63186076199969)",1,Age (years),18 - 24
+281,2016,AL,Alabama,43.0,43.0,Percent of adults aged 18 years and older who have obesity,793.0,,35 - 44,"(32.84057112200048, -86.63186076199969)",1,Age (years),35 - 44
+282,2016,AL,Alabama,43.5,43.5,Percent of adults aged 18 years and older who have obesity,1060.0,,45 - 54,"(32.84057112200048, -86.63186076199969)",1,Age (years),45 - 54
+283,2016,AL,Alabama,40.7,40.7,Percent of adults aged 18 years and older who have obesity,1402.0,,55 - 64,"(32.84057112200048, -86.63186076199969)",1,Age (years),55 - 64
+284,2016,AL,Alabama,29.6,29.6,Percent of adults aged 18 years and older who have obesity,2142.0,,65 or older,"(32.84057112200048, -86.63186076199969)",1,Age (years),65 or older
+285,2016,AK,Alaska,15.1,15.1,Percent of adults aged 18 years and older who have obesity,177.0,,18 - 24,"(64.84507995700051, -147.72205903599973)",2,Age (years),18 - 24
+286,2016,AK,Alaska,40.3,40.3,Percent of adults aged 18 years and older who have obesity,356.0,,35 - 44,"(64.84507995700051, -147.72205903599973)",2,Age (years),35 - 44
+287,2016,AK,Alaska,35.0,35.0,Percent of adults aged 18 years and older who have obesity,483.0,,45 - 54,"(64.84507995700051, -147.72205903599973)",2,Age (years),45 - 54
+288,2016,AK,Alaska,30.0,30.0,Percent of adults aged 18 years and older who have obesity,706.0,,55 - 64,"(64.84507995700051, -147.72205903599973)",2,Age (years),55 - 64
+289,2016,AK,Alaska,35.3,35.3,Percent of adults aged 18 years and older who have obesity,738.0,,65 or older,"(64.84507995700051, -147.72205903599973)",2,Age (years),65 or older
+290,2016,AZ,Arizona,14.4,14.4,Percent of adults aged 18 years and older who have obesity,344.0,,18 - 24,"(34.865970280000454, -111.76381127699972)",4,Age (years),18 - 24
+291,2016,AZ,Arizona,34.5,34.5,Percent of adults aged 18 years and older who have obesity,892.0,,35 - 44,"(34.865970280000454, -111.76381127699972)",4,Age (years),35 - 44
+292,2016,AZ,Arizona,36.4,36.4,Percent of adults aged 18 years and older who have obesity,1281.0,,45 - 54,"(34.865970280000454, -111.76381127699972)",4,Age (years),45 - 54
+293,2016,AZ,Arizona,33.8,33.8,Percent of adults aged 18 years and older who have obesity,2127.0,,55 - 64,"(34.865970280000454, -111.76381127699972)",4,Age (years),55 - 64
+294,2016,AZ,Arizona,25.9,25.9,Percent of adults aged 18 years and older who have obesity,4790.0,,65 or older,"(34.865970280000454, -111.76381127699972)",4,Age (years),65 or older
+295,2016,AR,Arkansas,28.6,28.6,Percent of adults aged 18 years and older who have obesity,122.0,,18 - 24,"(34.74865012400045, -92.27449074299966)",5,Age (years),18 - 24
+296,2016,AR,Arkansas,43.8,43.8,Percent of adults aged 18 years and older who have obesity,373.0,,35 - 44,"(34.74865012400045, -92.27449074299966)",5,Age (years),35 - 44
+297,2016,AR,Arkansas,42.7,42.7,Percent of adults aged 18 years and older who have obesity,648.0,,45 - 54,"(34.74865012400045, -92.27449074299966)",5,Age (years),45 - 54
+298,2016,AR,Arkansas,39.6,39.6,Percent of adults aged 18 years and older who have obesity,1036.0,,55 - 64,"(34.74865012400045, -92.27449074299966)",5,Age (years),55 - 64
+299,2016,AR,Arkansas,27.6,27.6,Percent of adults aged 18 years and older who have obesity,2397.0,,65 or older,"(34.74865012400045, -92.27449074299966)",5,Age (years),65 or older
+300,2016,CA,California,14.5,14.5,Percent of adults aged 18 years and older who have obesity,997.0,,18 - 24,"(37.63864012300047, -120.99999953799971)",6,Age (years),18 - 24
+301,2016,CA,California,27.8,27.8,Percent of adults aged 18 years and older who have obesity,1505.0,,35 - 44,"(37.63864012300047, -120.99999953799971)",6,Age (years),35 - 44
+302,2016,CA,California,30.2,30.2,Percent of adults aged 18 years and older who have obesity,1754.0,,45 - 54,"(37.63864012300047, -120.99999953799971)",6,Age (years),45 - 54
+303,2016,CA,California,28.9,28.9,Percent of adults aged 18 years and older who have obesity,1930.0,,55 - 64,"(37.63864012300047, -120.99999953799971)",6,Age (years),55 - 64
+304,2016,CA,California,23.5,23.5,Percent of adults aged 18 years and older who have obesity,2510.0,,65 or older,"(37.63864012300047, -120.99999953799971)",6,Age (years),65 or older
+305,2016,CO,Colorado,12.8,12.8,Percent of adults aged 18 years and older who have obesity,658.0,,18 - 24,"(38.843840757000464, -106.13361092099967)",8,Age (years),18 - 24
+306,2016,CO,Colorado,25.0,25.0,Percent of adults aged 18 years and older who have obesity,1615.0,,35 - 44,"(38.843840757000464, -106.13361092099967)",8,Age (years),35 - 44
+307,2016,CO,Colorado,26.9,26.9,Percent of adults aged 18 years and older who have obesity,2191.0,,45 - 54,"(38.843840757000464, -106.13361092099967)",8,Age (years),45 - 54
+308,2016,CO,Colorado,26.9,26.9,Percent of adults aged 18 years and older who have obesity,3151.0,,55 - 64,"(38.843840757000464, -106.13361092099967)",8,Age (years),55 - 64
+309,2016,CO,Colorado,21.0,21.0,Percent of adults aged 18 years and older who have obesity,4724.0,,65 or older,"(38.843840757000464, -106.13361092099967)",8,Age (years),65 or older
+310,2016,CT,Connecticut,13.4,13.4,Percent of adults aged 18 years and older who have obesity,398.0,,18 - 24,"(41.56266102000046, -72.64984095199964)",9,Age (years),18 - 24
+311,2016,CT,Connecticut,29.7,29.7,Percent of adults aged 18 years and older who have obesity,963.0,,35 - 44,"(41.56266102000046, -72.64984095199964)",9,Age (years),35 - 44
+312,2016,CT,Connecticut,30.2,30.2,Percent of adults aged 18 years and older who have obesity,1718.0,,45 - 54,"(41.56266102000046, -72.64984095199964)",9,Age (years),45 - 54
+313,2016,CT,Connecticut,30.4,30.4,Percent of adults aged 18 years and older who have obesity,2379.0,,55 - 64,"(41.56266102000046, -72.64984095199964)",9,Age (years),55 - 64
+314,2016,CT,Connecticut,24.9,24.9,Percent of adults aged 18 years and older who have obesity,3831.0,,65 or older,"(41.56266102000046, -72.64984095199964)",9,Age (years),65 or older
+315,2016,DE,Delaware,19.3,19.3,Percent of adults aged 18 years and older who have obesity,235.0,,18 - 24,"(39.008830667000495, -75.57774116799965)",10,Age (years),18 - 24
+316,2016,DE,Delaware,35.6,35.6,Percent of adults aged 18 years and older who have obesity,388.0,,35 - 44,"(39.008830667000495, -75.57774116799965)",10,Age (years),35 - 44
+317,2016,DE,Delaware,35.5,35.5,Percent of adults aged 18 years and older who have obesity,602.0,,45 - 54,"(39.008830667000495, -75.57774116799965)",10,Age (years),45 - 54
+318,2016,DE,Delaware,34.1,34.1,Percent of adults aged 18 years and older who have obesity,812.0,,55 - 64,"(39.008830667000495, -75.57774116799965)",10,Age (years),55 - 64
+319,2016,DE,Delaware,30.4,30.4,Percent of adults aged 18 years and older who have obesity,1281.0,,65 or older,"(39.008830667000495, -75.57774116799965)",10,Age (years),65 or older
+320,2016,DC,District of Columbia,11.6,11.6,Percent of adults aged 18 years and older who have obesity,163.0,,18 - 24,"(38.89037138500049, -77.03196112699965)",11,Age (years),18 - 24
+321,2016,DC,District of Columbia,27.0,27.0,Percent of adults aged 18 years and older who have obesity,502.0,,35 - 44,"(38.89037138500049, -77.03196112699965)",11,Age (years),35 - 44
+322,2016,DC,District of Columbia,27.0,27.0,Percent of adults aged 18 years and older who have obesity,621.0,,45 - 54,"(38.89037138500049, -77.03196112699965)",11,Age (years),45 - 54
+323,2016,DC,District of Columbia,31.4,31.4,Percent of adults aged 18 years and older who have obesity,760.0,,55 - 64,"(38.89037138500049, -77.03196112699965)",11,Age (years),55 - 64
+324,2016,DC,District of Columbia,24.0,24.0,Percent of adults aged 18 years and older who have obesity,959.0,,65 or older,"(38.89037138500049, -77.03196112699965)",11,Age (years),65 or older
+325,2016,FL,Florida,14.9,14.9,Percent of adults aged 18 years and older who have obesity,1661.0,,18 - 24,"(28.932040377000476, -81.92896053899966)",12,Age (years),18 - 24
+326,2016,FL,Florida,29.4,29.4,Percent of adults aged 18 years and older who have obesity,3299.0,,35 - 44,"(28.932040377000476, -81.92896053899966)",12,Age (years),35 - 44
+327,2016,FL,Florida,31.7,31.7,Percent of adults aged 18 years and older who have obesity,4853.0,,45 - 54,"(28.932040377000476, -81.92896053899966)",12,Age (years),45 - 54
+328,2016,FL,Florida,32.6,32.6,Percent of adults aged 18 years and older who have obesity,6706.0,,55 - 64,"(28.932040377000476, -81.92896053899966)",12,Age (years),55 - 64
+329,2016,FL,Florida,25.8,25.8,Percent of adults aged 18 years and older who have obesity,13657.0,,65 or older,"(28.932040377000476, -81.92896053899966)",12,Age (years),65 or older
+330,2016,GA,Georgia,17.3,17.3,Percent of adults aged 18 years and older who have obesity,286.0,,18 - 24,"(32.83968109300048, -83.62758034599966)",13,Age (years),18 - 24
+331,2016,GA,Georgia,35.8,35.8,Percent of adults aged 18 years and older who have obesity,521.0,,35 - 44,"(32.83968109300048, -83.62758034599966)",13,Age (years),35 - 44
+332,2016,GA,Georgia,36.7,36.7,Percent of adults aged 18 years and older who have obesity,779.0,,45 - 54,"(32.83968109300048, -83.62758034599966)",13,Age (years),45 - 54
+333,2016,GA,Georgia,37.6,37.6,Percent of adults aged 18 years and older who have obesity,972.0,,55 - 64,"(32.83968109300048, -83.62758034599966)",13,Age (years),55 - 64
+334,2016,GA,Georgia,31.0,31.0,Percent of adults aged 18 years and older who have obesity,1849.0,,65 or older,"(32.83968109300048, -83.62758034599966)",13,Age (years),65 or older
+335,2016,HI,Hawaii,13.9,13.9,Percent of adults aged 18 years and older who have obesity,459.0,,18 - 24,"(21.304850435000446, -157.85774940299973)",15,Age (years),18 - 24
+336,2016,HI,Hawaii,29.6,29.6,Percent of adults aged 18 years and older who have obesity,884.0,,35 - 44,"(21.304850435000446, -157.85774940299973)",15,Age (years),35 - 44
+337,2016,HI,Hawaii,30.3,30.3,Percent of adults aged 18 years and older who have obesity,1151.0,,45 - 54,"(21.304850435000446, -157.85774940299973)",15,Age (years),45 - 54
+338,2016,HI,Hawaii,26.4,26.4,Percent of adults aged 18 years and older who have obesity,1755.0,,55 - 64,"(21.304850435000446, -157.85774940299973)",15,Age (years),55 - 64
+339,2016,HI,Hawaii,16.0,16.0,Percent of adults aged 18 years and older who have obesity,2635.0,,65 or older,"(21.304850435000446, -157.85774940299973)",15,Age (years),65 or older
+340,2016,ID,Idaho,21.5,21.5,Percent of adults aged 18 years and older who have obesity,237.0,,18 - 24,"(43.682630005000476, -114.3637300419997)",16,Age (years),18 - 24
+341,2016,ID,Idaho,25.8,25.8,Percent of adults aged 18 years and older who have obesity,538.0,,35 - 44,"(43.682630005000476, -114.3637300419997)",16,Age (years),35 - 44
+342,2016,ID,Idaho,35.1,35.1,Percent of adults aged 18 years and older who have obesity,720.0,,45 - 54,"(43.682630005000476, -114.3637300419997)",16,Age (years),45 - 54
+343,2016,ID,Idaho,30.7,30.7,Percent of adults aged 18 years and older who have obesity,1009.0,,55 - 64,"(43.682630005000476, -114.3637300419997)",16,Age (years),55 - 64
+344,2016,ID,Idaho,25.2,25.2,Percent of adults aged 18 years and older who have obesity,1932.0,,65 or older,"(43.682630005000476, -114.3637300419997)",16,Age (years),65 or older
+345,2016,IL,Illinois,17.3,17.3,Percent of adults aged 18 years and older who have obesity,342.0,,18 - 24,"(40.48501028300046, -88.99771017799969)",17,Age (years),18 - 24
+346,2016,IL,Illinois,35.4,35.4,Percent of adults aged 18 years and older who have obesity,565.0,,35 - 44,"(40.48501028300046, -88.99771017799969)",17,Age (years),35 - 44
+347,2016,IL,Illinois,38.2,38.2,Percent of adults aged 18 years and older who have obesity,691.0,,45 - 54,"(40.48501028300046, -88.99771017799969)",17,Age (years),45 - 54
+348,2016,IL,Illinois,36.9,36.9,Percent of adults aged 18 years and older who have obesity,923.0,,55 - 64,"(40.48501028300046, -88.99771017799969)",17,Age (years),55 - 64
+349,2016,IL,Illinois,30.9,30.9,Percent of adults aged 18 years and older who have obesity,1492.0,,65 or older,"(40.48501028300046, -88.99771017799969)",17,Age (years),65 or older
+350,2016,IN,Indiana,17.6,17.6,Percent of adults aged 18 years and older who have obesity,425.0,,18 - 24,"(39.766910452000445, -86.14996019399968)",18,Age (years),18 - 24
+351,2016,IN,Indiana,35.0,35.0,Percent of adults aged 18 years and older who have obesity,1022.0,,35 - 44,"(39.766910452000445, -86.14996019399968)",18,Age (years),35 - 44
+352,2016,IN,Indiana,39.4,39.4,Percent of adults aged 18 years and older who have obesity,1550.0,,45 - 54,"(39.766910452000445, -86.14996019399968)",18,Age (years),45 - 54
+353,2016,IN,Indiana,37.5,37.5,Percent of adults aged 18 years and older who have obesity,2366.0,,55 - 64,"(39.766910452000445, -86.14996019399968)",18,Age (years),55 - 64
+354,2016,IN,Indiana,30.6,30.6,Percent of adults aged 18 years and older who have obesity,4223.0,,65 or older,"(39.766910452000445, -86.14996019399968)",18,Age (years),65 or older
+355,2016,IA,Iowa,18.4,18.4,Percent of adults aged 18 years and older who have obesity,364.0,,18 - 24,"(42.46940091300047, -93.81649055599968)",19,Age (years),18 - 24
+356,2016,IA,Iowa,38.7,38.7,Percent of adults aged 18 years and older who have obesity,689.0,,35 - 44,"(42.46940091300047, -93.81649055599968)",19,Age (years),35 - 44
+357,2016,IA,Iowa,36.3,36.3,Percent of adults aged 18 years and older who have obesity,964.0,,45 - 54,"(42.46940091300047, -93.81649055599968)",19,Age (years),45 - 54
+358,2016,IA,Iowa,37.9,37.9,Percent of adults aged 18 years and older who have obesity,1483.0,,55 - 64,"(42.46940091300047, -93.81649055599968)",19,Age (years),55 - 64
+359,2016,IA,Iowa,30.9,30.9,Percent of adults aged 18 years and older who have obesity,2541.0,,65 or older,"(42.46940091300047, -93.81649055599968)",19,Age (years),65 or older
+360,2016,KS,Kansas,36.8,36.8,Percent of adults aged 18 years and older who have obesity,2372.0,,55 - 64,"(38.34774030000045, -98.20078122699965)",20,Age (years),55 - 64
+361,2016,KS,Kansas,19.8,19.8,Percent of adults aged 18 years and older who have obesity,633.0,,18 - 24,"(38.34774030000045, -98.20078122699965)",20,Age (years),18 - 24
+362,2016,KS,Kansas,36.0,36.0,Percent of adults aged 18 years and older who have obesity,1224.0,,35 - 44,"(38.34774030000045, -98.20078122699965)",20,Age (years),35 - 44
+363,2016,KS,Kansas,35.9,35.9,Percent of adults aged 18 years and older who have obesity,1683.0,,45 - 54,"(38.34774030000045, -98.20078122699965)",20,Age (years),45 - 54
+364,2016,KS,Kansas,28.9,28.9,Percent of adults aged 18 years and older who have obesity,3893.0,,65 or older,"(38.34774030000045, -98.20078122699965)",20,Age (years),65 or older
+365,2016,KY,Kentucky,20.3,20.3,Percent of adults aged 18 years and older who have obesity,639.0,,18 - 24,"(37.645970271000465, -84.77497104799966)",21,Age (years),18 - 24
+366,2016,KY,Kentucky,40.7,40.7,Percent of adults aged 18 years and older who have obesity,1075.0,,35 - 44,"(37.645970271000465, -84.77497104799966)",21,Age (years),35 - 44
+367,2016,KY,Kentucky,39.0,39.0,Percent of adults aged 18 years and older who have obesity,1619.0,,45 - 54,"(37.645970271000465, -84.77497104799966)",21,Age (years),45 - 54
+368,2016,KY,Kentucky,37.9,37.9,Percent of adults aged 18 years and older who have obesity,2207.0,,55 - 64,"(37.645970271000465, -84.77497104799966)",21,Age (years),55 - 64
+369,2016,KY,Kentucky,31.0,31.0,Percent of adults aged 18 years and older who have obesity,3125.0,,65 or older,"(37.645970271000465, -84.77497104799966)",21,Age (years),65 or older
+370,2016,LA,Louisiana,25.9,25.9,Percent of adults aged 18 years and older who have obesity,197.0,,18 - 24,"(31.31266064400046, -92.44568007099969)",22,Age (years),18 - 24
+371,2016,LA,Louisiana,45.2,45.2,Percent of adults aged 18 years and older who have obesity,485.0,,35 - 44,"(31.31266064400046, -92.44568007099969)",22,Age (years),35 - 44
+372,2016,LA,Louisiana,40.5,40.5,Percent of adults aged 18 years and older who have obesity,713.0,,45 - 54,"(31.31266064400046, -92.44568007099969)",22,Age (years),45 - 54
+373,2016,LA,Louisiana,36.6,36.6,Percent of adults aged 18 years and older who have obesity,1112.0,,55 - 64,"(31.31266064400046, -92.44568007099969)",22,Age (years),55 - 64
+374,2016,LA,Louisiana,35.3,35.3,Percent of adults aged 18 years and older who have obesity,1951.0,,65 or older,"(31.31266064400046, -92.44568007099969)",22,Age (years),65 or older
+375,2016,ME,Maine,20.7,20.7,Percent of adults aged 18 years and older who have obesity,360.0,,18 - 24,"(45.254228894000505, -68.98503133599962)",23,Age (years),18 - 24
+376,2016,ME,Maine,30.0,30.0,Percent of adults aged 18 years and older who have obesity,911.0,,35 - 44,"(45.254228894000505, -68.98503133599962)",23,Age (years),35 - 44
+377,2016,ME,Maine,37.3,37.3,Percent of adults aged 18 years and older who have obesity,1537.0,,45 - 54,"(45.254228894000505, -68.98503133599962)",23,Age (years),45 - 54
+378,2016,ME,Maine,33.0,33.0,Percent of adults aged 18 years and older who have obesity,2310.0,,55 - 64,"(45.254228894000505, -68.98503133599962)",23,Age (years),55 - 64
+379,2016,ME,Maine,28.7,28.7,Percent of adults aged 18 years and older who have obesity,3678.0,,65 or older,"(45.254228894000505, -68.98503133599962)",23,Age (years),65 or older
+380,2016,MD,Maryland,16.3,16.3,Percent of adults aged 18 years and older who have obesity,666.0,,18 - 24,"(39.29058096400047, -76.60926011099963)",24,Age (years),18 - 24
+381,2016,MD,Maryland,31.7,31.7,Percent of adults aged 18 years and older who have obesity,1776.0,,35 - 44,"(39.29058096400047, -76.60926011099963)",24,Age (years),35 - 44
+382,2016,MD,Maryland,34.6,34.6,Percent of adults aged 18 years and older who have obesity,2871.0,,45 - 54,"(39.29058096400047, -76.60926011099963)",24,Age (years),45 - 54
+383,2016,MD,Maryland,35.5,35.5,Percent of adults aged 18 years and older who have obesity,3867.0,,55 - 64,"(39.29058096400047, -76.60926011099963)",24,Age (years),55 - 64
+384,2016,MD,Maryland,29.2,29.2,Percent of adults aged 18 years and older who have obesity,6221.0,,65 or older,"(39.29058096400047, -76.60926011099963)",24,Age (years),65 or older
+385,2016,MA,Massachusetts,14.5,14.5,Percent of adults aged 18 years and older who have obesity,499.0,,18 - 24,"(42.27687047000046, -72.08269067499964)",25,Age (years),18 - 24
+386,2016,MA,Massachusetts,24.4,24.4,Percent of adults aged 18 years and older who have obesity,852.0,,35 - 44,"(42.27687047000046, -72.08269067499964)",25,Age (years),35 - 44
+387,2016,MA,Massachusetts,26.9,26.9,Percent of adults aged 18 years and older who have obesity,1244.0,,45 - 54,"(42.27687047000046, -72.08269067499964)",25,Age (years),45 - 54
+388,2016,MA,Massachusetts,28.6,28.6,Percent of adults aged 18 years and older who have obesity,1636.0,,55 - 64,"(42.27687047000046, -72.08269067499964)",25,Age (years),55 - 64
+389,2016,MA,Massachusetts,25.1,25.1,Percent of adults aged 18 years and older who have obesity,2408.0,,65 or older,"(42.27687047000046, -72.08269067499964)",25,Age (years),65 or older
+390,2016,MI,Michigan,21.7,21.7,Percent of adults aged 18 years and older who have obesity,783.0,,18 - 24,"(44.6613195430005, -84.71439026999968)",26,Age (years),18 - 24
+391,2016,MI,Michigan,38.0,38.0,Percent of adults aged 18 years and older who have obesity,1260.0,,35 - 44,"(44.6613195430005, -84.71439026999968)",26,Age (years),35 - 44
+392,2016,MI,Michigan,36.6,36.6,Percent of adults aged 18 years and older who have obesity,1812.0,,45 - 54,"(44.6613195430005, -84.71439026999968)",26,Age (years),45 - 54
+393,2016,MI,Michigan,34.9,34.9,Percent of adults aged 18 years and older who have obesity,2445.0,,55 - 64,"(44.6613195430005, -84.71439026999968)",26,Age (years),55 - 64
+394,2016,MI,Michigan,32.2,32.2,Percent of adults aged 18 years and older who have obesity,3711.0,,65 or older,"(44.6613195430005, -84.71439026999968)",26,Age (years),65 or older
+395,2016,MN,Minnesota,16.1,16.1,Percent of adults aged 18 years and older who have obesity,1056.0,,18 - 24,"(46.35564873600049, -94.79420050299967)",27,Age (years),18 - 24
+396,2016,MN,Minnesota,28.4,28.4,Percent of adults aged 18 years and older who have obesity,2021.0,,35 - 44,"(46.35564873600049, -94.79420050299967)",27,Age (years),35 - 44
+397,2016,MN,Minnesota,32.6,32.6,Percent of adults aged 18 years and older who have obesity,2579.0,,45 - 54,"(46.35564873600049, -94.79420050299967)",27,Age (years),45 - 54
+398,2016,MN,Minnesota,32.7,32.7,Percent of adults aged 18 years and older who have obesity,3375.0,,55 - 64,"(46.35564873600049, -94.79420050299967)",27,Age (years),55 - 64
+399,2016,MN,Minnesota,28.6,28.6,Percent of adults aged 18 years and older who have obesity,4580.0,,65 or older,"(46.35564873600049, -94.79420050299967)",27,Age (years),65 or older
+400,2016,MS,Mississippi,19.9,19.9,Percent of adults aged 18 years and older who have obesity,240.0,,18 - 24,"(32.745510099000455, -89.53803082499968)",28,Age (years),18 - 24
+401,2016,MS,Mississippi,47.5,47.5,Percent of adults aged 18 years and older who have obesity,583.0,,35 - 44,"(32.745510099000455, -89.53803082499968)",28,Age (years),35 - 44
+402,2016,MS,Mississippi,45.5,45.5,Percent of adults aged 18 years and older who have obesity,759.0,,45 - 54,"(32.745510099000455, -89.53803082499968)",28,Age (years),45 - 54
+403,2016,MS,Mississippi,39.8,39.8,Percent of adults aged 18 years and older who have obesity,1068.0,,55 - 64,"(32.745510099000455, -89.53803082499968)",28,Age (years),55 - 64
+404,2016,MS,Mississippi,31.0,31.0,Percent of adults aged 18 years and older who have obesity,1658.0,,65 or older,"(32.745510099000455, -89.53803082499968)",28,Age (years),65 or older
+405,2016,MO,Missouri,17.7,17.7,Percent of adults aged 18 years and older who have obesity,367.0,,18 - 24,"(38.635790776000476, -92.56630005299968)",29,Age (years),18 - 24
+406,2016,MO,Missouri,35.4,35.4,Percent of adults aged 18 years and older who have obesity,641.0,,35 - 44,"(38.635790776000476, -92.56630005299968)",29,Age (years),35 - 44
+407,2016,MO,Missouri,36.3,36.3,Percent of adults aged 18 years and older who have obesity,960.0,,45 - 54,"(38.635790776000476, -92.56630005299968)",29,Age (years),45 - 54
+408,2016,MO,Missouri,40.5,40.5,Percent of adults aged 18 years and older who have obesity,1377.0,,55 - 64,"(38.635790776000476, -92.56630005299968)",29,Age (years),55 - 64
+409,2016,MO,Missouri,30.1,30.1,Percent of adults aged 18 years and older who have obesity,2707.0,,65 or older,"(38.635790776000476, -92.56630005299968)",29,Age (years),65 or older
+410,2016,MT,Montana,15.4,15.4,Percent of adults aged 18 years and older who have obesity,262.0,,18 - 24,"(47.06652897200047, -109.42442064499971)",30,Age (years),18 - 24
+411,2016,MT,Montana,26.9,26.9,Percent of adults aged 18 years and older who have obesity,604.0,,35 - 44,"(47.06652897200047, -109.42442064499971)",30,Age (years),35 - 44
+412,2016,MT,Montana,31.8,31.8,Percent of adults aged 18 years and older who have obesity,699.0,,45 - 54,"(47.06652897200047, -109.42442064499971)",30,Age (years),45 - 54
+413,2016,MT,Montana,29.1,29.1,Percent of adults aged 18 years and older who have obesity,1270.0,,55 - 64,"(47.06652897200047, -109.42442064499971)",30,Age (years),55 - 64
+414,2016,MT,Montana,24.3,24.3,Percent of adults aged 18 years and older who have obesity,2148.0,,65 or older,"(47.06652897200047, -109.42442064499971)",30,Age (years),65 or older
+415,2016,NE,Nebraska,17.2,17.2,Percent of adults aged 18 years and older who have obesity,847.0,,18 - 24,"(41.6410409880005, -99.36572062299967)",31,Age (years),18 - 24
+416,2016,NE,Nebraska,34.6,34.6,Percent of adults aged 18 years and older who have obesity,1650.0,,35 - 44,"(41.6410409880005, -99.36572062299967)",31,Age (years),35 - 44
+417,2016,NE,Nebraska,39.7,39.7,Percent of adults aged 18 years and older who have obesity,2081.0,,45 - 54,"(41.6410409880005, -99.36572062299967)",31,Age (years),45 - 54
+418,2016,NE,Nebraska,37.6,37.6,Percent of adults aged 18 years and older who have obesity,3010.0,,55 - 64,"(41.6410409880005, -99.36572062299967)",31,Age (years),55 - 64
+419,2016,NE,Nebraska,29.9,29.9,Percent of adults aged 18 years and older who have obesity,5037.0,,65 or older,"(41.6410409880005, -99.36572062299967)",31,Age (years),65 or older
+420,2016,NV,Nevada,16.9,16.9,Percent of adults aged 18 years and older who have obesity,266.0,,18 - 24,"(39.493240390000494, -117.07184056399967)",32,Age (years),18 - 24
+421,2016,NV,Nevada,24.8,24.8,Percent of adults aged 18 years and older who have obesity,483.0,,35 - 44,"(39.493240390000494, -117.07184056399967)",32,Age (years),35 - 44
+422,2016,NV,Nevada,30.7,30.7,Percent of adults aged 18 years and older who have obesity,630.0,,45 - 54,"(39.493240390000494, -117.07184056399967)",32,Age (years),45 - 54
+423,2016,NV,Nevada,29.3,29.3,Percent of adults aged 18 years and older who have obesity,810.0,,55 - 64,"(39.493240390000494, -117.07184056399967)",32,Age (years),55 - 64
+424,2016,NV,Nevada,25.7,25.7,Percent of adults aged 18 years and older who have obesity,1355.0,,65 or older,"(39.493240390000494, -117.07184056399967)",32,Age (years),65 or older
+425,2016,NH,New Hampshire,13.7,13.7,Percent of adults aged 18 years and older who have obesity,228.0,,18 - 24,"(43.65595011300047, -71.50036091999965)",33,Age (years),18 - 24
+426,2016,NH,New Hampshire,26.1,26.1,Percent of adults aged 18 years and older who have obesity,539.0,,35 - 44,"(43.65595011300047, -71.50036091999965)",33,Age (years),35 - 44
+427,2016,NH,New Hampshire,30.8,30.8,Percent of adults aged 18 years and older who have obesity,1038.0,,45 - 54,"(43.65595011300047, -71.50036091999965)",33,Age (years),45 - 54
+428,2016,NH,New Hampshire,29.1,29.1,Percent of adults aged 18 years and older who have obesity,1404.0,,55 - 64,"(43.65595011300047, -71.50036091999965)",33,Age (years),55 - 64
+429,2016,NH,New Hampshire,26.5,26.5,Percent of adults aged 18 years and older who have obesity,2268.0,,65 or older,"(43.65595011300047, -71.50036091999965)",33,Age (years),65 or older
+430,2016,NJ,New Jersey,14.2,14.2,Percent of adults aged 18 years and older who have obesity,333.0,,18 - 24,"(40.13057004800049, -74.27369128799967)",34,Age (years),18 - 24
+431,2016,NJ,New Jersey,26.1,26.1,Percent of adults aged 18 years and older who have obesity,791.0,,35 - 44,"(40.13057004800049, -74.27369128799967)",34,Age (years),35 - 44
+432,2016,NJ,New Jersey,32.0,32.0,Percent of adults aged 18 years and older who have obesity,1174.0,,45 - 54,"(40.13057004800049, -74.27369128799967)",34,Age (years),45 - 54
+433,2016,NJ,New Jersey,33.9,33.9,Percent of adults aged 18 years and older who have obesity,1614.0,,55 - 64,"(40.13057004800049, -74.27369128799967)",34,Age (years),55 - 64
+434,2016,NJ,New Jersey,28.0,28.0,Percent of adults aged 18 years and older who have obesity,2278.0,,65 or older,"(40.13057004800049, -74.27369128799967)",34,Age (years),65 or older
+435,2016,NM,New Mexico,17.6,17.6,Percent of adults aged 18 years and older who have obesity,238.0,,18 - 24,"(34.52088095200048, -106.24058098499967)",35,Age (years),18 - 24
+436,2016,NM,New Mexico,33.6,33.6,Percent of adults aged 18 years and older who have obesity,622.0,,35 - 44,"(34.52088095200048, -106.24058098499967)",35,Age (years),35 - 44
+437,2016,NM,New Mexico,33.0,33.0,Percent of adults aged 18 years and older who have obesity,852.0,,45 - 54,"(34.52088095200048, -106.24058098499967)",35,Age (years),45 - 54
+438,2016,NM,New Mexico,29.8,29.8,Percent of adults aged 18 years and older who have obesity,1301.0,,55 - 64,"(34.52088095200048, -106.24058098499967)",35,Age (years),55 - 64
+439,2016,NM,New Mexico,24.0,24.0,Percent of adults aged 18 years and older who have obesity,2001.0,,65 or older,"(34.52088095200048, -106.24058098499967)",35,Age (years),65 or older
+440,2016,NY,New York,12.7,12.7,Percent of adults aged 18 years and older who have obesity,1659.0,,18 - 24,"(42.82700103200045, -75.54397042699964)",36,Age (years),18 - 24
+441,2016,NY,New York,27.7,27.7,Percent of adults aged 18 years and older who have obesity,3377.0,,35 - 44,"(42.82700103200045, -75.54397042699964)",36,Age (years),35 - 44
+442,2016,NY,New York,31.6,31.6,Percent of adults aged 18 years and older who have obesity,5183.0,,45 - 54,"(42.82700103200045, -75.54397042699964)",36,Age (years),45 - 54
+443,2016,NY,New York,31.1,31.1,Percent of adults aged 18 years and older who have obesity,7175.0,,55 - 64,"(42.82700103200045, -75.54397042699964)",36,Age (years),55 - 64
+444,2016,NY,New York,24.6,24.6,Percent of adults aged 18 years and older who have obesity,10612.0,,65 or older,"(42.82700103200045, -75.54397042699964)",36,Age (years),65 or older
+445,2016,NC,North Carolina,17.7,17.7,Percent of adults aged 18 years and older who have obesity,418.0,,18 - 24,"(35.466220975000454, -79.15925046299964)",37,Age (years),18 - 24
+446,2016,NC,North Carolina,36.4,36.4,Percent of adults aged 18 years and older who have obesity,821.0,,35 - 44,"(35.466220975000454, -79.15925046299964)",37,Age (years),35 - 44
+447,2016,NC,North Carolina,39.9,39.9,Percent of adults aged 18 years and older who have obesity,984.0,,45 - 54,"(35.466220975000454, -79.15925046299964)",37,Age (years),45 - 54
+448,2016,NC,North Carolina,34.6,34.6,Percent of adults aged 18 years and older who have obesity,1188.0,,55 - 64,"(35.466220975000454, -79.15925046299964)",37,Age (years),55 - 64
+449,2016,NC,North Carolina,28.6,28.6,Percent of adults aged 18 years and older who have obesity,1793.0,,65 or older,"(35.466220975000454, -79.15925046299964)",37,Age (years),65 or older
+450,2016,ND,North Dakota,17.7,17.7,Percent of adults aged 18 years and older who have obesity,250.0,,18 - 24,"(47.47531977900047, -100.11842104899966)",38,Age (years),18 - 24
+451,2016,ND,North Dakota,35.5,35.5,Percent of adults aged 18 years and older who have obesity,549.0,,35 - 44,"(47.47531977900047, -100.11842104899966)",38,Age (years),35 - 44
+452,2016,ND,North Dakota,38.3,38.3,Percent of adults aged 18 years and older who have obesity,758.0,,45 - 54,"(47.47531977900047, -100.11842104899966)",38,Age (years),45 - 54
+453,2016,ND,North Dakota,36.0,36.0,Percent of adults aged 18 years and older who have obesity,1271.0,,55 - 64,"(47.47531977900047, -100.11842104899966)",38,Age (years),55 - 64
+454,2016,ND,North Dakota,32.1,32.1,Percent of adults aged 18 years and older who have obesity,1971.0,,65 or older,"(47.47531977900047, -100.11842104899966)",38,Age (years),65 or older
+455,2016,OH,Ohio,16.6,16.6,Percent of adults aged 18 years and older who have obesity,510.0,,18 - 24,"(40.06021014100048, -82.40426005599966)",39,Age (years),18 - 24
+456,2016,OH,Ohio,34.6,34.6,Percent of adults aged 18 years and older who have obesity,1173.0,,35 - 44,"(40.06021014100048, -82.40426005599966)",39,Age (years),35 - 44
+457,2016,OH,Ohio,37.5,37.5,Percent of adults aged 18 years and older who have obesity,1730.0,,45 - 54,"(40.06021014100048, -82.40426005599966)",39,Age (years),45 - 54
+458,2016,OH,Ohio,37.2,37.2,Percent of adults aged 18 years and older who have obesity,2673.0,,55 - 64,"(40.06021014100048, -82.40426005599966)",39,Age (years),55 - 64
+459,2016,OH,Ohio,29.7,29.7,Percent of adults aged 18 years and older who have obesity,4425.0,,65 or older,"(40.06021014100048, -82.40426005599966)",39,Age (years),65 or older
+460,2016,OK,Oklahoma,22.9,22.9,Percent of adults aged 18 years and older who have obesity,274.0,,18 - 24,"(35.47203135600046, -97.52107021399968)",40,Age (years),18 - 24
+461,2016,OK,Oklahoma,40.2,40.2,Percent of adults aged 18 years and older who have obesity,672.0,,35 - 44,"(35.47203135600046, -97.52107021399968)",40,Age (years),35 - 44
+462,2016,OK,Oklahoma,36.3,36.3,Percent of adults aged 18 years and older who have obesity,913.0,,45 - 54,"(35.47203135600046, -97.52107021399968)",40,Age (years),45 - 54
+463,2016,OK,Oklahoma,36.3,36.3,Percent of adults aged 18 years and older who have obesity,1360.0,,55 - 64,"(35.47203135600046, -97.52107021399968)",40,Age (years),55 - 64
+464,2016,OK,Oklahoma,30.5,30.5,Percent of adults aged 18 years and older who have obesity,2615.0,,65 or older,"(35.47203135600046, -97.52107021399968)",40,Age (years),65 or older
+465,2016,OR,Oregon,17.4,17.4,Percent of adults aged 18 years and older who have obesity,343.0,,18 - 24,"(44.56744942400047, -120.15503132599969)",41,Age (years),18 - 24
+466,2016,OR,Oregon,32.2,32.2,Percent of adults aged 18 years and older who have obesity,656.0,,35 - 44,"(44.56744942400047, -120.15503132599969)",41,Age (years),35 - 44
+467,2016,OR,Oregon,35.4,35.4,Percent of adults aged 18 years and older who have obesity,795.0,,45 - 54,"(44.56744942400047, -120.15503132599969)",41,Age (years),45 - 54
+468,2016,OR,Oregon,30.9,30.9,Percent of adults aged 18 years and older who have obesity,980.0,,55 - 64,"(44.56744942400047, -120.15503132599969)",41,Age (years),55 - 64
+469,2016,OR,Oregon,27.7,27.7,Percent of adults aged 18 years and older who have obesity,1626.0,,65 or older,"(44.56744942400047, -120.15503132599969)",41,Age (years),65 or older
+470,2016,PA,Pennsylvania,15.9,15.9,Percent of adults aged 18 years and older who have obesity,525.0,,18 - 24,"(40.79373015200048, -77.86070029399963)",42,Age (years),18 - 24
+471,2016,PA,Pennsylvania,32.9,32.9,Percent of adults aged 18 years and older who have obesity,780.0,,35 - 44,"(40.79373015200048, -77.86070029399963)",42,Age (years),35 - 44
+472,2016,PA,Pennsylvania,36.7,36.7,Percent of adults aged 18 years and older who have obesity,1092.0,,45 - 54,"(40.79373015200048, -77.86070029399963)",42,Age (years),45 - 54
+473,2016,PA,Pennsylvania,34.2,34.2,Percent of adults aged 18 years and older who have obesity,1402.0,,55 - 64,"(40.79373015200048, -77.86070029399963)",42,Age (years),55 - 64
+474,2016,PA,Pennsylvania,30.5,30.5,Percent of adults aged 18 years and older who have obesity,1778.0,,65 or older,"(40.79373015200048, -77.86070029399963)",42,Age (years),65 or older
+475,2016,RI,Rhode Island,13.1,13.1,Percent of adults aged 18 years and older who have obesity,218.0,,18 - 24,"(41.70828019300046, -71.52247031399963)",44,Age (years),18 - 24
+476,2016,RI,Rhode Island,27.1,27.1,Percent of adults aged 18 years and older who have obesity,528.0,,35 - 44,"(41.70828019300046, -71.52247031399963)",44,Age (years),35 - 44
+477,2016,RI,Rhode Island,32.4,32.4,Percent of adults aged 18 years and older who have obesity,879.0,,45 - 54,"(41.70828019300046, -71.52247031399963)",44,Age (years),45 - 54
+478,2016,RI,Rhode Island,33.7,33.7,Percent of adults aged 18 years and older who have obesity,1239.0,,55 - 64,"(41.70828019300046, -71.52247031399963)",44,Age (years),55 - 64
+479,2016,RI,Rhode Island,25.2,25.2,Percent of adults aged 18 years and older who have obesity,1690.0,,65 or older,"(41.70828019300046, -71.52247031399963)",44,Age (years),65 or older
+480,2016,SC,South Carolina,16.9,16.9,Percent of adults aged 18 years and older who have obesity,484.0,,18 - 24,"(33.998821303000454, -81.04537120699968)",45,Age (years),18 - 24
+481,2016,SC,South Carolina,38.2,38.2,Percent of adults aged 18 years and older who have obesity,1007.0,,35 - 44,"(33.998821303000454, -81.04537120699968)",45,Age (years),35 - 44
+482,2016,SC,South Carolina,41.7,41.7,Percent of adults aged 18 years and older who have obesity,1605.0,,45 - 54,"(33.998821303000454, -81.04537120699968)",45,Age (years),45 - 54
+483,2016,SC,South Carolina,34.4,34.4,Percent of adults aged 18 years and older who have obesity,2289.0,,55 - 64,"(33.998821303000454, -81.04537120699968)",45,Age (years),55 - 64
+484,2016,SC,South Carolina,28.7,28.7,Percent of adults aged 18 years and older who have obesity,4262.0,,65 or older,"(33.998821303000454, -81.04537120699968)",45,Age (years),65 or older
+485,2016,SD,South Dakota,15.0,15.0,Percent of adults aged 18 years and older who have obesity,268.0,,18 - 24,"(44.353130053000484, -100.3735306369997)",46,Age (years),18 - 24
+486,2016,SD,South Dakota,38.6,38.6,Percent of adults aged 18 years and older who have obesity,603.0,,35 - 44,"(44.353130053000484, -100.3735306369997)",46,Age (years),35 - 44
+487,2016,SD,South Dakota,35.0,35.0,Percent of adults aged 18 years and older who have obesity,809.0,,45 - 54,"(44.353130053000484, -100.3735306369997)",46,Age (years),45 - 54
+488,2016,SD,South Dakota,34.2,34.2,Percent of adults aged 18 years and older who have obesity,1215.0,,55 - 64,"(44.353130053000484, -100.3735306369997)",46,Age (years),55 - 64
+489,2016,SD,South Dakota,27.3,27.3,Percent of adults aged 18 years and older who have obesity,1971.0,,65 or older,"(44.353130053000484, -100.3735306369997)",46,Age (years),65 or older
+490,2016,TN,Tennessee,22.5,22.5,Percent of adults aged 18 years and older who have obesity,343.0,,18 - 24,"(35.68094058000048, -85.77449091399967)",47,Age (years),18 - 24
+491,2016,TN,Tennessee,41.3,41.3,Percent of adults aged 18 years and older who have obesity,593.0,,35 - 44,"(35.68094058000048, -85.77449091399967)",47,Age (years),35 - 44
+492,2016,TN,Tennessee,39.3,39.3,Percent of adults aged 18 years and older who have obesity,948.0,,45 - 54,"(35.68094058000048, -85.77449091399967)",47,Age (years),45 - 54
+493,2016,TN,Tennessee,40.7,40.7,Percent of adults aged 18 years and older who have obesity,1242.0,,55 - 64,"(35.68094058000048, -85.77449091399967)",47,Age (years),55 - 64
+494,2016,TN,Tennessee,28.6,28.6,Percent of adults aged 18 years and older who have obesity,1969.0,,65 or older,"(35.68094058000048, -85.77449091399967)",47,Age (years),65 or older
+495,2016,TX,Texas,23.9,23.9,Percent of adults aged 18 years and older who have obesity,518.0,,18 - 24,"(31.827240407000488, -99.42677020599967)",48,Age (years),18 - 24
+496,2016,TX,Texas,38.0,38.0,Percent of adults aged 18 years and older who have obesity,1185.0,,35 - 44,"(31.827240407000488, -99.42677020599967)",48,Age (years),35 - 44
+497,2016,TX,Texas,38.7,38.7,Percent of adults aged 18 years and older who have obesity,1533.0,,45 - 54,"(31.827240407000488, -99.42677020599967)",48,Age (years),45 - 54
+498,2016,TX,Texas,39.2,39.2,Percent of adults aged 18 years and older who have obesity,2126.0,,55 - 64,"(31.827240407000488, -99.42677020599967)",48,Age (years),55 - 64
+499,2016,TX,Texas,30.0,30.0,Percent of adults aged 18 years and older who have obesity,4329.0,,65 or older,"(31.827240407000488, -99.42677020599967)",48,Age (years),65 or older
+500,2016,UT,Utah,8.9,8.9,Percent of adults aged 18 years and older who have obesity,813.0,,18 - 24,"(39.360700171000474, -111.58713063499971)",49,Age (years),18 - 24
+501,2016,UT,Utah,29.0,29.0,Percent of adults aged 18 years and older who have obesity,1681.0,,35 - 44,"(39.360700171000474, -111.58713063499971)",49,Age (years),35 - 44
+502,2016,UT,Utah,31.7,31.7,Percent of adults aged 18 years and older who have obesity,1509.0,,45 - 54,"(39.360700171000474, -111.58713063499971)",49,Age (years),45 - 54
+503,2016,UT,Utah,34.5,34.5,Percent of adults aged 18 years and older who have obesity,1826.0,,55 - 64,"(39.360700171000474, -111.58713063499971)",49,Age (years),55 - 64
+504,2016,UT,Utah,26.8,26.8,Percent of adults aged 18 years and older who have obesity,2947.0,,65 or older,"(39.360700171000474, -111.58713063499971)",49,Age (years),65 or older
+505,2016,VT,Vermont,18.7,18.7,Percent of adults aged 18 years and older who have obesity,266.0,,18 - 24,"(43.62538123900049, -72.51764079099962)",50,Age (years),18 - 24
+506,2016,VT,Vermont,30.7,30.7,Percent of adults aged 18 years and older who have obesity,650.0,,35 - 44,"(43.62538123900049, -72.51764079099962)",50,Age (years),35 - 44
+507,2016,VT,Vermont,31.1,31.1,Percent of adults aged 18 years and older who have obesity,1029.0,,45 - 54,"(43.62538123900049, -72.51764079099962)",50,Age (years),45 - 54
+508,2016,VT,Vermont,30.1,30.1,Percent of adults aged 18 years and older who have obesity,1549.0,,55 - 64,"(43.62538123900049, -72.51764079099962)",50,Age (years),55 - 64
+509,2016,VT,Vermont,25.9,25.9,Percent of adults aged 18 years and older who have obesity,2061.0,,65 or older,"(43.62538123900049, -72.51764079099962)",50,Age (years),65 or older
+510,2016,VA,Virginia,18.2,18.2,Percent of adults aged 18 years and older who have obesity,498.0,,18 - 24,"(37.54268067400045, -78.45789046299967)",51,Age (years),18 - 24
+511,2016,VA,Virginia,29.4,29.4,Percent of adults aged 18 years and older who have obesity,951.0,,35 - 44,"(37.54268067400045, -78.45789046299967)",51,Age (years),35 - 44
+512,2016,VA,Virginia,36.9,36.9,Percent of adults aged 18 years and older who have obesity,1420.0,,45 - 54,"(37.54268067400045, -78.45789046299967)",51,Age (years),45 - 54
+513,2016,VA,Virginia,33.1,33.1,Percent of adults aged 18 years and older who have obesity,1807.0,,55 - 64,"(37.54268067400045, -78.45789046299967)",51,Age (years),55 - 64
+514,2016,VA,Virginia,27.8,27.8,Percent of adults aged 18 years and older who have obesity,2722.0,,65 or older,"(37.54268067400045, -78.45789046299967)",51,Age (years),65 or older
+515,2016,WA,Washington,16.4,16.4,Percent of adults aged 18 years and older who have obesity,699.0,,18 - 24,"(47.52227862900048, -120.47001078999972)",53,Age (years),18 - 24
+516,2016,WA,Washington,32.2,32.2,Percent of adults aged 18 years and older who have obesity,1502.0,,35 - 44,"(47.52227862900048, -120.47001078999972)",53,Age (years),35 - 44
+517,2016,WA,Washington,32.9,32.9,Percent of adults aged 18 years and older who have obesity,1924.0,,45 - 54,"(47.52227862900048, -120.47001078999972)",53,Age (years),45 - 54
+518,2016,WA,Washington,31.4,31.4,Percent of adults aged 18 years and older who have obesity,2775.0,,55 - 64,"(47.52227862900048, -120.47001078999972)",53,Age (years),55 - 64
+519,2016,WA,Washington,28.3,28.3,Percent of adults aged 18 years and older who have obesity,4758.0,,65 or older,"(47.52227862900048, -120.47001078999972)",53,Age (years),65 or older
+520,2016,WV,West Virginia,26.0,26.0,Percent of adults aged 18 years and older who have obesity,333.0,,18 - 24,"(38.66551020200046, -80.71264013499967)",54,Age (years),18 - 24
+521,2016,WV,West Virginia,40.8,40.8,Percent of adults aged 18 years and older who have obesity,845.0,,35 - 44,"(38.66551020200046, -80.71264013499967)",54,Age (years),35 - 44
+522,2016,WV,West Virginia,46.3,46.3,Percent of adults aged 18 years and older who have obesity,1118.0,,45 - 54,"(38.66551020200046, -80.71264013499967)",54,Age (years),45 - 54
+523,2016,WV,West Virginia,43.2,43.2,Percent of adults aged 18 years and older who have obesity,1563.0,,55 - 64,"(38.66551020200046, -80.71264013499967)",54,Age (years),55 - 64
+524,2016,WV,West Virginia,32.4,32.4,Percent of adults aged 18 years and older who have obesity,2072.0,,65 or older,"(38.66551020200046, -80.71264013499967)",54,Age (years),65 or older
+525,2016,WI,Wisconsin,14.8,14.8,Percent of adults aged 18 years and older who have obesity,280.0,,18 - 24,"(44.39319117400049, -89.81637074199966)",55,Age (years),18 - 24
+526,2016,WI,Wisconsin,35.5,35.5,Percent of adults aged 18 years and older who have obesity,523.0,,35 - 44,"(44.39319117400049, -89.81637074199966)",55,Age (years),35 - 44
+527,2016,WI,Wisconsin,31.3,31.3,Percent of adults aged 18 years and older who have obesity,762.0,,45 - 54,"(44.39319117400049, -89.81637074199966)",55,Age (years),45 - 54
+528,2016,WI,Wisconsin,35.9,35.9,Percent of adults aged 18 years and older who have obesity,1129.0,,55 - 64,"(44.39319117400049, -89.81637074199966)",55,Age (years),55 - 64
+529,2016,WI,Wisconsin,34.6,34.6,Percent of adults aged 18 years and older who have obesity,1623.0,,65 or older,"(44.39319117400049, -89.81637074199966)",55,Age (years),65 or older
+530,2016,WY,Wyoming,16.0,16.0,Percent of adults aged 18 years and older who have obesity,141.0,,18 - 24,"(43.23554134300048, -108.10983035299967)",56,Age (years),18 - 24
+531,2016,WY,Wyoming,37.0,37.0,Percent of adults aged 18 years and older who have obesity,433.0,,35 - 44,"(43.23554134300048, -108.10983035299967)",56,Age (years),35 - 44
+532,2016,WY,Wyoming,34.9,34.9,Percent of adults aged 18 years and older who have obesity,546.0,,45 - 54,"(43.23554134300048, -108.10983035299967)",56,Age (years),45 - 54
+533,2016,WY,Wyoming,30.1,30.1,Percent of adults aged 18 years and older who have obesity,1062.0,,55 - 64,"(43.23554134300048, -108.10983035299967)",56,Age (years),55 - 64
+534,2016,WY,Wyoming,25.8,25.8,Percent of adults aged 18 years and older who have obesity,1724.0,,65 or older,"(43.23554134300048, -108.10983035299967)",56,Age (years),65 or older
+535,2016,GU,Guam,18.2,18.2,Percent of adults aged 18 years and older who have obesity,137.0,,18 - 24,"(13.444304, 144.793731)",66,Age (years),18 - 24
+536,2016,GU,Guam,32.8,32.8,Percent of adults aged 18 years and older who have obesity,257.0,,35 - 44,"(13.444304, 144.793731)",66,Age (years),35 - 44
+537,2016,GU,Guam,32.2,32.2,Percent of adults aged 18 years and older who have obesity,312.0,,45 - 54,"(13.444304, 144.793731)",66,Age (years),45 - 54
+538,2016,GU,Guam,26.9,26.9,Percent of adults aged 18 years and older who have obesity,279.0,,55 - 64,"(13.444304, 144.793731)",66,Age (years),55 - 64
+539,2016,GU,Guam,24.3,24.3,Percent of adults aged 18 years and older who have obesity,268.0,,65 or older,"(13.444304, 144.793731)",66,Age (years),65 or older
+540,2016,PR,Puerto Rico,18.3,18.3,Percent of adults aged 18 years and older who have obesity,370.0,,18 - 24,"(18.220833, -66.590149)",72,Age (years),18 - 24
+541,2016,PR,Puerto Rico,33.8,33.8,Percent of adults aged 18 years and older who have obesity,701.0,,35 - 44,"(18.220833, -66.590149)",72,Age (years),35 - 44
+542,2016,PR,Puerto Rico,38.8,38.8,Percent of adults aged 18 years and older who have obesity,888.0,,45 - 54,"(18.220833, -66.590149)",72,Age (years),45 - 54
+543,2016,PR,Puerto Rico,36.7,36.7,Percent of adults aged 18 years and older who have obesity,1054.0,,55 - 64,"(18.220833, -66.590149)",72,Age (years),55 - 64
+544,2016,PR,Puerto Rico,25.0,25.0,Percent of adults aged 18 years and older who have obesity,1898.0,,65 or older,"(18.220833, -66.590149)",72,Age (years),65 or older
+545,2016,VI,Virgin Islands,15.5,15.5,Percent of adults aged 18 years and older who have obesity,50.0,,18 - 24,"(18.335765, -64.896335)",78,Age (years),18 - 24
+546,2016,VI,Virgin Islands,39.8,39.8,Percent of adults aged 18 years and older who have obesity,91.0,,35 - 44,"(18.335765, -64.896335)",78,Age (years),35 - 44
+547,2016,VI,Virgin Islands,41.4,41.4,Percent of adults aged 18 years and older who have obesity,217.0,,45 - 54,"(18.335765, -64.896335)",78,Age (years),45 - 54
+548,2016,VI,Virgin Islands,33.2,33.2,Percent of adults aged 18 years and older who have obesity,306.0,,55 - 64,"(18.335765, -64.896335)",78,Age (years),55 - 64
+549,2016,VI,Virgin Islands,19.3,19.3,Percent of adults aged 18 years and older who have obesity,436.0,,65 or older,"(18.335765, -64.896335)",78,Age (years),65 or older
